@@ -1,0 +1,436 @@
+[
+  {
+    "file": "ripe-2026-09-01-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/01/output.json.xz",
+    "sha256": "ef60726abe157b720d931c8ca7d07da7bd84169b1bf216384bf52c976aa9a382",
+    "retrieved_utc": "2026-09-26T14:13:35.914078+00:00"
+  },
+  {
+    "file": "ripe-2026-09-01-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/01/output.json.xz",
+    "sha256": "57aa443b3b0d03220f533ea612e69e394bb2133c6f9614dce24a59422a203386",
+    "retrieved_utc": "2026-09-26T14:13:38.111286+00:00"
+  },
+  {
+    "file": "ripe-2026-09-01-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/01/output.json.xz",
+    "sha256": "f4497eb705b5bac99fc7c0724964ff895ab60c4345a6a18e0dcbe736295a4f56",
+    "retrieved_utc": "2026-09-26T14:13:37.194943+00:00"
+  },
+  {
+    "file": "ripe-2026-09-01-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/01/output.json.xz",
+    "sha256": "7c444c6f7b74a2011f0160296a24424750550da3c4e8724f7a6d79e06302060b",
+    "retrieved_utc": "2026-09-26T14:13:38.776101+00:00"
+  },
+  {
+    "file": "ripe-2026-09-01-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/01/output.json.xz",
+    "sha256": "8c81530628516b50201de52ac16b4e4fb83cf7cbd7f569f2c9316f1a59c17a17",
+    "retrieved_utc": "2026-09-26T14:13:41.159137+00:00"
+  },
+  {
+    "file": "ripe-2026-09-02-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/02/output.json.xz",
+    "sha256": "12c3b80c2553fbbd012f3510d3981babf20bd9dcbf3e02b5a233e4ceab251ef5",
+    "retrieved_utc": "2026-09-26T14:13:39.759205+00:00"
+  },
+  {
+    "file": "ripe-2026-09-02-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/02/output.json.xz",
+    "sha256": "2b03f4e2f0ceacbdf23659bc345dd4a8145588806b5e927a40168cc58523625d",
+    "retrieved_utc": "2026-09-26T14:13:42.505664+00:00"
+  },
+  {
+    "file": "ripe-2026-09-02-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/02/output.json.xz",
+    "sha256": "adc721fe84b4a329f067c292489e473af3e0fcdde750355bc0bdda3831865de8",
+    "retrieved_utc": "2026-09-26T14:13:43.963470+00:00"
+  },
+  {
+    "file": "ripe-2026-09-02-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/02/output.json.xz",
+    "sha256": "274c161977905218f1599e40ddf28f7c112b2250477b163d5932d56aa2167fd6",
+    "retrieved_utc": "2026-09-26T14:13:44.137475+00:00"
+  },
+  {
+    "file": "ripe-2026-09-02-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/02/output.json.xz",
+    "sha256": "5f684cbfe4b4b8901481cf59725ecb291cc2a93b0b4f04aafc2297d9d4921983",
+    "retrieved_utc": "2026-09-26T14:13:46.592586+00:00"
+  },
+  {
+    "file": "ripe-2026-09-03-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/03/output.json.xz",
+    "sha256": "c1f9cd38dbee2a035a7dc19e561aaa701aedec9aeef66674fa667da947a4c8b0",
+    "retrieved_utc": "2026-09-26T14:13:45.688810+00:00"
+  },
+  {
+    "file": "ripe-2026-09-03-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/03/output.json.xz",
+    "sha256": "bdb546a69265e0eb2ee76a56f98d50adacc7a733fd98da302e5f11c68cd90554",
+    "retrieved_utc": "2026-09-26T14:13:47.701104+00:00"
+  },
+  {
+    "file": "ripe-2026-09-03-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/03/output.json.xz",
+    "sha256": "7a8514f30e22e3f020dfd891a2f68b998956251febab1d0615974567e2b244bb",
+    "retrieved_utc": "2026-09-26T14:13:49.839822+00:00"
+  },
+  {
+    "file": "ripe-2026-09-03-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/03/output.json.xz",
+    "sha256": "fd3e86681ab4ebf9411e1544f05a530ad649c0553450753f199096b4380e30e7",
+    "retrieved_utc": "2026-09-26T14:13:48.721676+00:00"
+  },
+  {
+    "file": "ripe-2026-09-03-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/03/output.json.xz",
+    "sha256": "697327316e0eb5c4713a3437703e27516cb7fb19e49ce009ca1c7997cc2a6a8f",
+    "retrieved_utc": "2026-09-26T14:13:51.818169+00:00"
+  },
+  {
+    "file": "ripe-2026-09-04-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/04/output.json.xz",
+    "sha256": "b50fb51783ea45caca7cbc90bef449f2e779ac4c41c753596d8eb207a1c96943",
+    "retrieved_utc": "2026-09-26T14:13:50.858368+00:00"
+  },
+  {
+    "file": "ripe-2026-09-04-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/04/output.json.xz",
+    "sha256": "cac92eca8e13c5b3ec084825e363e56b3acbcbeb6f781fbd4d4b6e99a66e6bad",
+    "retrieved_utc": "2026-09-26T14:13:53.610267+00:00"
+  },
+  {
+    "file": "ripe-2026-09-04-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/04/output.json.xz",
+    "sha256": "637bf5b00be1ba91c2bed2673c5562e79f68d08f8a85317d9d697f76e3e18598",
+    "retrieved_utc": "2026-09-26T14:13:55.010748+00:00"
+  },
+  {
+    "file": "ripe-2026-09-04-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/04/output.json.xz",
+    "sha256": "8ad1b9bd9ac0c6ca42b74a1b282962222a4e0ed863e63492f36e9daef79b0c73",
+    "retrieved_utc": "2026-09-26T14:13:54.302492+00:00"
+  },
+  {
+    "file": "ripe-2026-09-04-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/04/output.json.xz",
+    "sha256": "6e79d44bab3d701b5a507e6b371d59099fa296357b16d380c420c94ef014b4c2",
+    "retrieved_utc": "2026-09-26T14:13:57.629464+00:00"
+  },
+  {
+    "file": "ripe-2026-09-05-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/05/output.json.xz",
+    "sha256": "587b0146eb6836c95617c94438762078abe6c2a34191ae1a19b1496311f8a879",
+    "retrieved_utc": "2026-09-26T14:13:56.819875+00:00"
+  },
+  {
+    "file": "ripe-2026-09-05-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/05/output.json.xz",
+    "sha256": "db7371819dfd715a110922879638e45699f41ba20844259b58efcf42d8174b62",
+    "retrieved_utc": "2026-09-26T14:13:59.069138+00:00"
+  },
+  {
+    "file": "ripe-2026-09-05-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/05/output.json.xz",
+    "sha256": "123cdc95d02f354bfd53ceac4f660692d8ea75aecac42614fcec2bc62989cb7a",
+    "retrieved_utc": "2026-09-26T14:14:01.053711+00:00"
+  },
+  {
+    "file": "ripe-2026-09-05-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/05/output.json.xz",
+    "sha256": "3c201dee34ab59c9ee3c5a4643fbc5ad5892ec794791e517929483db5c88488b",
+    "retrieved_utc": "2026-09-26T14:14:00.090322+00:00"
+  },
+  {
+    "file": "ripe-2026-09-05-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/05/output.json.xz",
+    "sha256": "a92140ac9980afd8c208fda18734ac7155473e3de02f86acc75175c139b7f81f",
+    "retrieved_utc": "2026-09-26T14:14:03.577586+00:00"
+  },
+  {
+    "file": "ripe-2026-09-06-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/06/output.json.xz",
+    "sha256": "46092d8c8d37b0b5039c35a12c3b439d93d7ad8f0b6816671454c4bdcf2dc1f1",
+    "retrieved_utc": "2026-09-26T14:14:02.469897+00:00"
+  },
+  {
+    "file": "ripe-2026-09-06-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/06/output.json.xz",
+    "sha256": "7dca8e2203278bdb3acc5d037f9328529fe40efbf00e3f803bfb4d161be23a78",
+    "retrieved_utc": "2026-09-26T14:14:04.644830+00:00"
+  },
+  {
+    "file": "ripe-2026-09-06-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/06/output.json.xz",
+    "sha256": "1e3dfb6b69c6e6fd328adf32306c4af97f6191544834e6cd0170df0a8a23ae56",
+    "retrieved_utc": "2026-09-26T14:14:06.808586+00:00"
+  },
+  {
+    "file": "ripe-2026-09-06-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/06/output.json.xz",
+    "sha256": "5a419b19ff1c1ee2421d84d61b368654ff49d9af8230eef4f86cfc2b01a0407d",
+    "retrieved_utc": "2026-09-26T14:14:05.767852+00:00"
+  },
+  {
+    "file": "ripe-2026-09-06-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/06/output.json.xz",
+    "sha256": "d1a128847215ee373c168f0eb0a6cd8927836474e182a9d7ab1c7b98ab10d547",
+    "retrieved_utc": "2026-09-26T14:14:08.680812+00:00"
+  },
+  {
+    "file": "ripe-2026-09-07-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/07/output.json.xz",
+    "sha256": "0033b3baa661f39592d9b6b57aeefaf3a02614cd2c29626963d9e154ad22bc74",
+    "retrieved_utc": "2026-09-26T14:14:08.809030+00:00"
+  },
+  {
+    "file": "ripe-2026-09-07-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/07/output.json.xz",
+    "sha256": "04e699b4c5c2a48f7b2807a576b001d08186401e927c71e27619ee8092a74d38",
+    "retrieved_utc": "2026-09-26T14:14:10.539069+00:00"
+  },
+  {
+    "file": "ripe-2026-09-07-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/07/output.json.xz",
+    "sha256": "abb3b5e9e4ac7ecbcf7f450e69ad879a168e86df555cf0b6f3224f489f2d8c4c",
+    "retrieved_utc": "2026-09-26T14:14:12.382489+00:00"
+  },
+  {
+    "file": "ripe-2026-09-07-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/07/output.json.xz",
+    "sha256": "d90440d6b80c91adf84c31485475e2cce89a4beda333c3288c6835a02edb4835",
+    "retrieved_utc": "2026-09-26T14:14:10.992369+00:00"
+  },
+  {
+    "file": "ripe-2026-09-07-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/07/output.json.xz",
+    "sha256": "ea4b4e12aa100d19a788b7785ddd1ea3ace3d6308c0015d759a2afb2d9ea0624",
+    "retrieved_utc": "2026-09-26T14:14:14.573922+00:00"
+  },
+  {
+    "file": "ripe-2026-09-08-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/08/output.json.xz",
+    "sha256": "87cbd42c22f4adcec3d7a6aa372f1be8bdd8c1e9b42ade07e86afc68c14994d5",
+    "retrieved_utc": "2026-09-26T14:14:13.042585+00:00"
+  },
+  {
+    "file": "ripe-2026-09-08-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/08/output.json.xz",
+    "sha256": "f55db72f855a5561d3e5caff2547f63da459d3f0503fd3e0519b30287bce9f32",
+    "retrieved_utc": "2026-09-26T14:14:16.901140+00:00"
+  },
+  {
+    "file": "ripe-2026-09-08-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/08/output.json.xz",
+    "sha256": "0c91d939caef8b32524adc64fddb588a0a05ccea7daf47e81d9f9ddf4f4faa28",
+    "retrieved_utc": "2026-09-26T14:14:17.592608+00:00"
+  },
+  {
+    "file": "ripe-2026-09-08-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/08/output.json.xz",
+    "sha256": "84ef54400a2329d9a9f0e08f5d9d55be16234f1673b2ec36dc0259948eddeeac",
+    "retrieved_utc": "2026-09-26T14:14:18.352886+00:00"
+  },
+  {
+    "file": "ripe-2026-09-08-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/08/output.json.xz",
+    "sha256": "7e11cbc6d69d910ed20752ef361acf687ceb5febb8578c1bf6a65595bc068e9b",
+    "retrieved_utc": "2026-09-26T14:14:21.314772+00:00"
+  },
+  {
+    "file": "ripe-2026-09-09-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/09/output.json.xz",
+    "sha256": "039116ee00fc4533e2e929dcfabf20076b1f2fba2fca33df6abcdfac9e5de37e",
+    "retrieved_utc": "2026-09-26T14:14:19.719783+00:00"
+  },
+  {
+    "file": "ripe-2026-09-09-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/09/output.json.xz",
+    "sha256": "7681b38917e4711bfb546754b5eb48ee3fc0dc79122af7cd1bc43244f5e87e5f",
+    "retrieved_utc": "2026-09-26T14:14:22.970350+00:00"
+  },
+  {
+    "file": "ripe-2026-09-09-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/09/output.json.xz",
+    "sha256": "41c60a1a314e056e8e37b0c38ab5a5a3a6d473e2201383b449c995538098f554",
+    "retrieved_utc": "2026-09-26T14:14:23.791541+00:00"
+  },
+  {
+    "file": "ripe-2026-09-09-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/09/output.json.xz",
+    "sha256": "0ab1f47ed8765b4c213a23b80304d3b71eda2230d9a0ce88d2b1ca5799e37f85",
+    "retrieved_utc": "2026-09-26T14:14:24.468811+00:00"
+  },
+  {
+    "file": "ripe-2026-09-09-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/09/output.json.xz",
+    "sha256": "2c2d9de281e98bb14d80842948a5aaaca55e7d5767d11e0f7a6734a43a2e5c4c",
+    "retrieved_utc": "2026-09-26T14:14:27.683456+00:00"
+  },
+  {
+    "file": "ripe-2026-09-10-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/10/output.json.xz",
+    "sha256": "3a8a73946d2ae4197221cd100cfb49e903cf1199cb752746ad407b997814cff6",
+    "retrieved_utc": "2026-09-26T14:14:25.551654+00:00"
+  },
+  {
+    "file": "ripe-2026-09-10-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/10/output.json.xz",
+    "sha256": "9ca84a7e381ce3794f4c94f1e7c1877dc1b326589c15ab0abeaf3f565c5f8955",
+    "retrieved_utc": "2026-09-26T14:14:34.447736+00:00"
+  },
+  {
+    "file": "ripe-2026-09-10-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/10/output.json.xz",
+    "sha256": "456513399815b340e69cda0c391174560e8ebd6e2acfbc80599189a2e3259bd8",
+    "retrieved_utc": "2026-09-26T14:14:28.982460+00:00"
+  },
+  {
+    "file": "ripe-2026-09-10-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/10/output.json.xz",
+    "sha256": "8780a9bafd12ad8afaa8f1aa37e6de6c262aad046a5a41117b4dfafd17255ab1",
+    "retrieved_utc": "2026-09-26T14:14:29.834051+00:00"
+  },
+  {
+    "file": "ripe-2026-09-10-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/10/output.json.xz",
+    "sha256": "92066358e3402b4eb06a897e7098775f44c14016b70a879fb12fc193e4093c8c",
+    "retrieved_utc": "2026-09-26T14:14:32.943541+00:00"
+  },
+  {
+    "file": "ripe-2026-09-11-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/11/output.json.xz",
+    "sha256": "6909d2cbd6163341a0a8733bf39e1cbedc4f8b4e81eacce8cf796b46129ed684",
+    "retrieved_utc": "2026-09-26T14:14:32.935485+00:00"
+  },
+  {
+    "file": "ripe-2026-09-11-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/11/output.json.xz",
+    "sha256": "7940a78ea5cba0c74b7dfb45cf18b766889659532df563c4a33b000c679c9f8b",
+    "retrieved_utc": "2026-09-26T14:14:36.929375+00:00"
+  },
+  {
+    "file": "ripe-2026-09-11-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/11/output.json.xz",
+    "sha256": "02e757f7711af62d83f7241d76b12e37686406fb805a717edec6b0c4bcff5e96",
+    "retrieved_utc": "2026-09-26T14:14:38.442638+00:00"
+  },
+  {
+    "file": "ripe-2026-09-11-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/11/output.json.xz",
+    "sha256": "f9a697626020f1a68114e3b2b9f6f74c791f865c37e2252e935e5632734f345c",
+    "retrieved_utc": "2026-09-26T14:14:37.026668+00:00"
+  },
+  {
+    "file": "ripe-2026-09-11-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/11/output.json.xz",
+    "sha256": "3037f746e6490055453dfc599dd46d9c97d724c431120d5d66415d812a666d56",
+    "retrieved_utc": "2026-09-26T14:14:48.123997+00:00"
+  },
+  {
+    "file": "ripe-2026-09-12-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/12/output.json.xz",
+    "sha256": "e01c4c0d520cfd8b2736dbad5fdf1834c4d2e3095c2b48503498090fa8bf7953",
+    "retrieved_utc": "2026-09-26T14:14:39.064504+00:00"
+  },
+  {
+    "file": "ripe-2026-09-12-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/12/output.json.xz",
+    "sha256": "52483769fc55556cf0b425e2035a8577a87374d78811fac5a42d1d722d10221d",
+    "retrieved_utc": "2026-09-26T14:14:41.412136+00:00"
+  },
+  {
+    "file": "ripe-2026-09-12-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/12/output.json.xz",
+    "sha256": "101d251b12fb6566a74c091d87b06f6fbe259035e0bc1376764e456fee9f0397",
+    "retrieved_utc": "2026-09-26T14:14:45.975504+00:00"
+  },
+  {
+    "file": "ripe-2026-09-12-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/12/output.json.xz",
+    "sha256": "00ad6864b8642227edc87825d13cad3e57da8c0b72c113747198dbff8fdf7c0f",
+    "retrieved_utc": "2026-09-26T14:14:43.275636+00:00"
+  },
+  {
+    "file": "ripe-2026-09-12-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/12/output.json.xz",
+    "sha256": "43fe452c59a34281fef27883d4c8c8eab2143149e1892dd2cfaf7df1d3f9c0d7",
+    "retrieved_utc": "2026-09-26T14:14:49.066172+00:00"
+  },
+  {
+    "file": "ripe-2026-09-13-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/13/output.json.xz",
+    "sha256": "3cd1e7bbab02639c2551de3e7f7b24ff060ad185e4407e84e7c2e650aa25ba30",
+    "retrieved_utc": "2026-09-26T14:14:49.149306+00:00"
+  },
+  {
+    "file": "ripe-2026-09-13-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/13/output.json.xz",
+    "sha256": "e49e0c1d1308fceac307ae26affdb23091613daacefdbaa91921ec325b5119c7",
+    "retrieved_utc": "2026-09-26T14:14:52.318460+00:00"
+  },
+  {
+    "file": "ripe-2026-09-13-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/13/output.json.xz",
+    "sha256": "015468277624669bfb3a0010e0e3b2b435cb546fa76f66b3458b521930792b08",
+    "retrieved_utc": "2026-09-26T14:14:54.373024+00:00"
+  },
+  {
+    "file": "ripe-2026-09-13-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/13/output.json.xz",
+    "sha256": "a1209f7a35cf1d87afd459f198c103d38ebef78ae3feadf7834a21012f4fa6cb",
+    "retrieved_utc": "2026-09-26T14:14:51.491055+00:00"
+  },
+  {
+    "file": "ripe-2026-09-13-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/13/output.json.xz",
+    "sha256": "9990ce3a3368b51c2ea03c50df0eb29d0f7347d6f1cd850bb390344ca4d60fab",
+    "retrieved_utc": "2026-09-26T14:14:58.484208+00:00"
+  },
+  {
+    "file": "ripe-2026-09-14-afrinic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/14/output.json.xz",
+    "sha256": "a0953f54ed1fc1dde643a30fbd286f09d6d88b70cf790907403a55540ea882fe",
+    "retrieved_utc": "2026-09-26T14:14:54.753890+00:00"
+  },
+  {
+    "file": "ripe-2026-09-14-apnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/14/output.json.xz",
+    "sha256": "748241de4636fd2787c71610597219f3ad4afe226e72f2deb05e93e38a510bf0",
+    "retrieved_utc": "2026-09-26T14:14:57.569858+00:00"
+  },
+  {
+    "file": "ripe-2026-09-14-arin.json.xz",
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/14/output.json.xz",
+    "sha256": "2a0aa4126b95e3a96353a9f08758a56e496ac334475fbb033d603d8b0054e130",
+    "retrieved_utc": "2026-09-26T14:14:59.867850+00:00"
+  },
+  {
+    "file": "ripe-2026-09-14-lacnic.json.xz",
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/14/output.json.xz",
+    "sha256": "8c1de95104ff9f6528e8bf3d7f18fe11fa7e6bd994a21d94ad187e4825a2980b",
+    "retrieved_utc": "2026-09-26T14:15:00.682981+00:00"
+  },
+  {
+    "file": "ripe-2026-09-14-ripencc.json.xz",
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/14/output.json.xz",
+    "sha256": "ce632e609b7add00001146eda69794fd2e4904fc52f69e3b3eca7f20ab9ad252",
+    "retrieved_utc": "2026-09-26T14:15:03.071685+00:00"
+  },
+  {
+    "file": "routeviews-rv2-20260914-2000.pfx2as.gz",
+    "url": "https://publicdata.caida.org/datasets/routing/routeviews-prefix2as/2026/09/routeviews-rv2-20260914-2000.pfx2as.gz",
+    "sha256": "d7368deddb750c38419e384fe7371d2497edc00e659ef63a02c13819861ce779",
+    "bytes": 3882594,
+    "retrieved_utc": "2026-09-26T14:19:05.628013+00:00"
+  },
+  {
+    "file": "routeviews-rv6-20260914-1200.pfx2as.gz",
+    "url": "https://publicdata.caida.org/datasets/routing/routeviews6-prefix2as/2026/09/routeviews-rv6-20260914-1200.pfx2as.gz",
+    "sha256": "fb15318ef38a34d3fcdf1af1ac908b392dbbdde8a899095a3a0e24d6394f1942",
+    "bytes": 895671,
+    "retrieved_utc": "2026-09-26T14:19:05.209974+00:00"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "package": "rpki-validator",
+  "version": "2.14.8",
+  "scope": "All changed route pairs from the static projection, offline external VRPs",
+  "snapshots": [
+    {
+      "date": "2026-09-13",
+      "checked": 575
+    },
+    {
+      "date": "2026-09-14",
+      "checked": 575
+    }
+  ],
+  "mismatches": []
+}

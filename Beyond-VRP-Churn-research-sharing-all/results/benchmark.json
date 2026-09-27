@@ -1,0 +1,125 @@
+{
+  "python": "3.14.4",
+  "platform": "Linux-7.0.0-34-generic-x86_64-with-glibc2.43",
+  "scope": "A differencing on already parsed and grouped sets; includes group comparison; excludes C and witnesses",
+  "repetitions": [
+    {
+      "pair": "2026-09-01_2026-09-02",
+      "rep": 1,
+      "parse_and_group_seconds": 27.313683158019558,
+      "order": [
+        "full",
+        "incremental"
+      ],
+      "full_seconds": 18.485211524006445,
+      "incremental_seconds": 1.9611242770042736,
+      "equal": true,
+      "peak_process_rss_kib": 795608
+    },
+    {
+      "pair": "2026-09-01_2026-09-02",
+      "rep": 2,
+      "parse_and_group_seconds": 27.313683158019558,
+      "order": [
+        "incremental",
+        "full"
+      ],
+      "incremental_seconds": 1.966613108990714,
+      "full_seconds": 18.311838202003855,
+      "equal": true,
+      "peak_process_rss_kib": 795608
+    },
+    {
+      "pair": "2026-09-01_2026-09-02",
+      "rep": 3,
+      "parse_and_group_seconds": 27.313683158019558,
+      "order": [
+        "full",
+        "incremental"
+      ],
+      "full_seconds": 18.007729213975836,
+      "incremental_seconds": 1.7795072660082951,
+      "equal": true,
+      "peak_process_rss_kib": 795608
+    },
+    {
+      "pair": "2026-09-07_2026-09-08",
+      "rep": 1,
+      "parse_and_group_seconds": 26.624264695012243,
+      "order": [
+        "full",
+        "incremental"
+      ],
+      "full_seconds": 18.007996527012438,
+      "incremental_seconds": 1.5701741760130972,
+      "equal": true,
+      "peak_process_rss_kib": 812432
+    },
+    {
+      "pair": "2026-09-07_2026-09-08",
+      "rep": 2,
+      "parse_and_group_seconds": 26.624264695012243,
+      "order": [
+        "incremental",
+        "full"
+      ],
+      "incremental_seconds": 1.5739460780168884,
+      "full_seconds": 17.733201179013122,
+      "equal": true,
+      "peak_process_rss_kib": 812432
+    },
+    {
+      "pair": "2026-09-07_2026-09-08",
+      "rep": 3,
+      "parse_and_group_seconds": 26.624264695012243,
+      "order": [
+        "full",
+        "incremental"
+      ],
+      "full_seconds": 17.759248759015463,
+      "incremental_seconds": 1.5961382100067567,
+      "equal": true,
+      "peak_process_rss_kib": 812432
+    },
+    {
+      "pair": "2026-09-13_2026-09-14",
+      "rep": 1,
+      "parse_and_group_seconds": 27.33139332398423,
+      "order": [
+        "full",
+        "incremental"
+      ],
+      "full_seconds": 18.021502368006622,
+      "incremental_seconds": 1.381635069992626,
+      "equal": true,
+      "peak_process_rss_kib": 814300
+    },
+    {
+      "pair": "2026-09-13_2026-09-14",
+      "rep": 2,
+      "parse_and_group_seconds": 27.33139332398423,
+      "order": [
+        "incremental",
+        "full"
+      ],
+      "incremental_seconds": 1.3779808139952365,
+      "full_seconds": 17.573571051994804,
+      "equal": true,
+      "peak_process_rss_kib": 814300
+    },
+    {
+      "pair": "2026-09-13_2026-09-14",
+      "rep": 3,
+      "parse_and_group_seconds": 27.33139332398423,
+      "order": [
+        "full",
+        "incremental"
+      ],
+      "full_seconds": 17.558957888017176,
+      "incremental_seconds": 1.379972593014827,
+      "equal": true,
+      "peak_process_rss_kib": 814300
+    }
+  ],
+  "cpu": "QEMU Virtual CPU version 2.5+"
+}

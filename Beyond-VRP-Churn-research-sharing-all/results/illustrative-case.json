@@ -1,0 +1,4168 @@
+{
+  "selection": "Post-analysis illustration, lowest IPv4 ASN with full-width A equality in first cohort pair; not a prespecified outcome",
+  "asn": 3215,
+  "old_tuples": 830,
+  "new_tuples": 831,
+  "added": [
+    {
+      "prefix": "194.3.194.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    }
+  ],
+  "removed": [],
+  "unchanged_context": [
+    {
+      "prefix": "2.3.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.4.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.5.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.6.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.7.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.8.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.9.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.9.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.10.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.11.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.11.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.12.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.12.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.13.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.13.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.14.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "2.15.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "62.160.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "62.161.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "80.8.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "80.8.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "80.8.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "80.8.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "80.9.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.9.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.10.47.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.10.120.0/21",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.10.184.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "80.10.192.0/22",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.10.200.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.10.201.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.10.202.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.10.203.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.10.246.0/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "80.10.246.128/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "80.10.248.0/21",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "80.11.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "80.12.0.0/18",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.16.0/21",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.64.0/23",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.80.0/20",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "80.12.99.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.103.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.104.0/21",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.105.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.106.0/23",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.108.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.111.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.112.0/20",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.128.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "80.12.195.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.196.0/22",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.197.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "80.12.198.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "80.12.200.0/21",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.208.0/20",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.224.0/20",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.12.240.0/20",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "80.13.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "80.14.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "80.15.0.0/17",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "80.15.128.0/18",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "80.15.192.0/19",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "80.15.255.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.48.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.49.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.49.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "81.49.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "81.50.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.50.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "81.50.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "81.51.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.52.232.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "81.53.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.80.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.80.79.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.80.118.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.80.221.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.80.224.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.80.227.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.248.0.0/16",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "81.248.4.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.248.11.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.248.192.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.249.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "81.249.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "81.250.0.0/16",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "81.251.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.251.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.252.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.252.10.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.48.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.124.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.144.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.153.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.166.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.170.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.171.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.176.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.252.249.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.253.149.0/29",
+      "asn": 3215,
+      "maxLength": 29
+    },
+    {
+      "prefix": "81.253.149.8/29",
+      "asn": 3215,
+      "maxLength": 29
+    },
+    {
+      "prefix": "81.254.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "81.255.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "81.255.33.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.255.76.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.255.77.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "81.255.223.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "82.120.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "82.121.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.122.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.122.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.123.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.124.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "82.125.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.126.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.126.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "82.127.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "83.112.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.113.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.113.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.114.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.115.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.137.241.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.192.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.192.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.192.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.193.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.194.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.195.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.195.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.196.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.197.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.198.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.199.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.199.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.200.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.200.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.201.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.202.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.202.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "83.202.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "83.203.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.203.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.204.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.204.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "83.205.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.206.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "83.206.4.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "83.206.56.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "83.206.173.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "86.192.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.192.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.193.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.194.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.195.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.196.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.197.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.198.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.198.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.199.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.200.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.201.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.202.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.203.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.203.128.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.203.192.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.204.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.205.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.205.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.205.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.206.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.207.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.207.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.207.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.208.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.209.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.209.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.210.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.211.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.212.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.212.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.213.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.213.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.213.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.214.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.214.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.215.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.215.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.216.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.217.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.217.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "86.218.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.218.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.219.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.219.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.220.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.220.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.221.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.221.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.222.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.223.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.223.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.224.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.225.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.227.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.228.0.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.228.64.0/18",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "86.228.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.229.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.229.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.230.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.231.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "86.233.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.234.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.235.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.236.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.237.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.238.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.239.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.240.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "86.240.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "86.241.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.242.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.243.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.244.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.245.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.246.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.247.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.248.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.249.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.250.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.252.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.253.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "86.254.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.0.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.0.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.1.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.1.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.2.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.2.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.3.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.3.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.3.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.4.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.5.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.5.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.6.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.7.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.7.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.8.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.9.0.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.9.64.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.9.128.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.9.192.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.10.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.11.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.11.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.12.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.13.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.14.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.14.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.14.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.14.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.14.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.15.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.16.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.17.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.17.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.18.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.18.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.19.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.20.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.21.0.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.21.64.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.21.128.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.21.192.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.22.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.23.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.24.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.24.128.0/17",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.25.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.25.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.26.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.26.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.27.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.27.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.28.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.28.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.29.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.30.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.31.0.0/16",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.32.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.33.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.34.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.35.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.35.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.36.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.36.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.37.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.38.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.38.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.38.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.38.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.38.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.39.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.39.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.40.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.40.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.40.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.40.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.40.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.41.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.42.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.43.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.43.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.44.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.44.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.44.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.45.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.46.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.46.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.47.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.47.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.47.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.48.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.49.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.50.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.51.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.51.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.52.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.53.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.53.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.54.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.55.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.56.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.57.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.58.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.58.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.59.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.60.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.60.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.61.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.61.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.62.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.62.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.63.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.63.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.65.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.66.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.70.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.73.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.76.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.78.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.79.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.80.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.80.43.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.108.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.153.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.167.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.168.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.188.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.190.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.80.192.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.82.48.0/20",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.56.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.82.64.0/20",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.80.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.82.80.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "90.82.82.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "90.82.84.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.85.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.86.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "90.82.88.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.89.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.90.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.91.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.82.192.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.82.208.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.82.224.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.82.227.0/25",
+      "asn": 3215,
+      "maxLength": 25
+    },
+    {
+      "prefix": "90.83.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "90.83.12.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.38.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.44.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.53.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.54.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.70.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.87.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.92.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.137.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.161.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.163.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.170.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.190.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.193.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.83.218.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.84.0.0/22",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.84.8.0/23",
+      "asn": 3215,
+      "maxLength": 31
+    },
+    {
+      "prefix": "90.84.153.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.85.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.85.8.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.85.10.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.85.54.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.85.62.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.85.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.85.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.86.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.87.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.88.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.89.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.90.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.91.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.92.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.93.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.97.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.99.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.100.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.101.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.102.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.102.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.103.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.104.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.105.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.107.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.108.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.109.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.110.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.112.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.113.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.114.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.115.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.115.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.115.146.0/24",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "90.115.177.0/25",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "90.116.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.117.0.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.32.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.64.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.96.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.128.0/17",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.117.128.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.160.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.192.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.117.224.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.118.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.119.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.120.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.121.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.121.128.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.121.144.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.121.160.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.121.176.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.121.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "90.122.0.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.122.16.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "90.122.32.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.122.64.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.122.96.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "90.122.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "90.125.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.126.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "90.127.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "91.212.128.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.128.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.128.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.129.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.129.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.129.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.129.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.130.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.131.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.131.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.132.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.132.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.133.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.133.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.134.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.134.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.135.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.135.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.136.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.137.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.138.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.139.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.140.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.140.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.141.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.141.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.141.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.142.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.143.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.143.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.144.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.145.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.145.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.146.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.146.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.146.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.146.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.147.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.148.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.149.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.150.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.151.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.151.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.152.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.152.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.153.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.153.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.153.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.153.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.153.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.154.0.0/17",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.154.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.155.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.155.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.155.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.155.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.155.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.156.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.157.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.158.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.159.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.159.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.160.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.160.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.160.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.160.128.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.160.160.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.160.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.161.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.161.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.162.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.162.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.163.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.164.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "92.165.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.165.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.166.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.167.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.168.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.169.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.170.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.171.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.173.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.173.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.173.128.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.173.160.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.173.192.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "92.173.208.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "92.173.224.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "92.173.240.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "92.174.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.174.64.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.174.128.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.174.160.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.174.192.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.174.216.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "92.174.224.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "92.175.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.175.70.0/24",
+      "asn": 3215,
+      "maxLength": 29
+    },
+    {
+      "prefix": "92.175.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.180.128.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.136.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.144.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.152.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.160.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.168.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.176.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.180.184.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "92.181.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.182.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.182.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.183.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "92.183.128.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.183.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "92.184.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.184.136.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "92.184.140.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "92.184.144.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "92.184.192.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "92.184.194.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.184.195.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "92.184.208.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "92.184.224.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "109.208.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.209.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "109.209.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "109.210.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "109.210.128.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "109.211.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.212.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.213.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.214.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.215.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "109.216.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.217.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.218.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.219.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "109.220.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "109.221.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "109.222.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "109.222.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "109.223.0.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "109.223.128.0/17",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "140.209.248.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "143.196.64.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "143.196.96.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "143.196.112.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "143.196.120.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "143.196.191.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "156.28.6.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "185.42.232.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.42.233.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.145.78.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.172.152.0/22",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.179.192.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "185.197.102.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.217.244.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.217.245.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "185.233.130.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.26.29.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.37.250.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.56.38.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.56.43.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.163.99.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.222.134.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.248.0.0/16",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.248.17.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.248.32.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.248.96.0/20",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.249.208.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.249.210.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "193.250.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "193.251.0.0/18",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "193.251.64.0/19",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "193.251.96.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.251.176.0/20",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "193.251.200.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.251.212.0/22",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.251.213.0/25",
+      "asn": 3215,
+      "maxLength": 25
+    },
+    {
+      "prefix": "193.251.230.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.251.231.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.251.232.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.251.236.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.252.0.0/20",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "193.252.18.0/23",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.252.20.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.252.24.0/21",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.252.32.0/19",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "193.252.68.0/22",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "193.252.68.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "193.252.68.0/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "193.252.68.64/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "193.252.68.128/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "193.252.68.192/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "193.252.69.0/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "193.252.69.192/26",
+      "asn": 3215,
+      "maxLength": 26
+    },
+    {
+      "prefix": "193.252.69.227/32",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.252.80.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "193.252.84.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.96.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.104.0/21",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.252.114.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.126.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.157.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.158.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.165.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.252.168.0/21",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "193.252.176.0/20",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "193.252.192.0/19",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "193.252.228.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.231.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.236.0/23",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.248.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.252.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.252.253.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.253.0.0/21",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.253.16.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "193.253.32.0/19",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "193.253.64.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.253.66.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "193.253.70.0/23",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.253.72.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "193.253.72.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "193.253.96.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "193.253.139.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.253.140.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "193.253.176.0/20",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "193.253.192.0/18",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "194.2.0.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "194.2.0.0/19",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.2.39.0/27",
+      "asn": 3215,
+      "maxLength": 27
+    },
+    {
+      "prefix": "194.2.64.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "194.2.70.0/23",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.72.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.2.76.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.78.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.2.78.0/27",
+      "asn": 3215,
+      "maxLength": 27
+    },
+    {
+      "prefix": "194.2.78.32/27",
+      "asn": 3215,
+      "maxLength": 27
+    },
+    {
+      "prefix": "194.2.80.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "194.2.96.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "194.2.110.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.2.113.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.2.122.0/23",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.2.128.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "194.2.138.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.2.142.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.144.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "194.2.152.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.2.156.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "194.2.160.0/19",
+      "asn": 3215,
+      "maxLength": 19
+    },
+    {
+      "prefix": "194.2.160.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.2.172.0/23",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.192.0/18",
+      "asn": 3215,
+      "maxLength": 18
+    },
+    {
+      "prefix": "194.2.199.0/25",
+      "asn": 3215,
+      "maxLength": 25
+    },
+    {
+      "prefix": "194.2.202.0/25",
+      "asn": 3215,
+      "maxLength": 29
+    },
+    {
+      "prefix": "194.2.203.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.2.204.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.205.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.208.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.209.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.211.208/28",
+      "asn": 3215,
+      "maxLength": 28
+    },
+    {
+      "prefix": "194.2.224.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.247.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.2.251.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.0.0/17",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "194.3.8.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.33.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.3.41.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.127.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.3.128.0/21",
+      "asn": 3215,
+      "maxLength": 21
+    },
+    {
+      "prefix": "194.3.137.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.138.0/23",
+      "asn": 3215,
+      "maxLength": 25
+    },
+    {
+      "prefix": "194.3.140.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "194.3.144.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "194.3.152.0/22",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.3.154.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.3.160.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "194.3.160.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.3.162.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.3.165.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.166.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.167.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.168.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.169.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.170.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.171.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.172.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.3.174.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.176.0/20",
+      "asn": 3215,
+      "maxLength": 20
+    },
+    {
+      "prefix": "194.3.176.0/22",
+      "asn": 3215,
+      "maxLength": 22
+    },
+    {
+      "prefix": "194.3.180.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.3.182.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.183.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.186.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.187.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.188.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.189.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.191.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.192.0/18",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.192.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.193.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.198.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.200.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.201.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.204.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.218.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.3.220.0/23",
+      "asn": 3215,
+      "maxLength": 23
+    },
+    {
+      "prefix": "194.3.222.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.5.189.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.5.190.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.5.191.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "194.51.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "194.51.45.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.51.111.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.206.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "194.206.33.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.206.86.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.250.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "194.250.17.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.250.90.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.250.115.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.250.122.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "194.250.144.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.6.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "195.6.200.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "195.25.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "195.25.75.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.25.238.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.101.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "195.101.24.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.101.39.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.101.95.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.101.152.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "195.101.184.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "212.234.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "212.234.159.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "212.234.206.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "212.234.223.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "212.234.233.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "213.56.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "213.56.63.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "213.56.135.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "213.56.237.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.108.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "217.108.22.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.108.57.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.108.101.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.108.130.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.108.163.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "217.109.19.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.21.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.27.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.59.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.73.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.79.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.85.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.100.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.111.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.109.214.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "217.109.216.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "217.109.217.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "217.109.218.0/24",
+      "asn": 3215,
+      "maxLength": 24
+    },
+    {
+      "prefix": "217.128.0.0/16",
+      "asn": 3215,
+      "maxLength": 17
+    },
+    {
+      "prefix": "217.167.0.0/16",
+      "asn": 3215,
+      "maxLength": 16
+    },
+    {
+      "prefix": "217.167.114.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    },
+    {
+      "prefix": "217.167.188.0/24",
+      "asn": 3215,
+      "maxLength": 32
+    }
+  ],
+  "A_equal_full": true,
+  "global_C_equal_for_origin_edit": true
+}

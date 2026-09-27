@@ -1,0 +1,12 @@
+test_as0_only_change (__main__.SemanticsTests.test_as0_only_change) ... ok
+test_duplicate_and_bad_records (__main__.SemanticsTests.test_duplicate_and_bad_records) ... ok
+test_interval_subtraction (__main__.SemanticsTests.test_interval_subtraction) ... ok
+test_origin_swap_and_net_cancellation (__main__.SemanticsTests.test_origin_swap_and_net_cancellation) ... ok
+test_random_1000_pairs (__main__.SemanticsTests.test_random_1000_pairs) ... ok
+test_redundant_tuple_change (__main__.SemanticsTests.test_redundant_tuple_change) ... ok
+test_sibling_coverage_cannot_collapse (__main__.SemanticsTests.test_sibling_coverage_cannot_collapse) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 90.267s
+
+OK

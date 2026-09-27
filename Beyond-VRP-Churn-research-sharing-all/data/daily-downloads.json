@@ -1,0 +1,1752 @@
+[
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/01/output.json.xz",
+    "date": "2026-09-01",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:13:35.914078+00:00",
+    "sha256": "ef60726abe157b720d931c8ca7d07da7bd84169b1bf216384bf52c976aa9a382",
+    "published_checksum": "ef60726abe157b720d931c8ca7d07da7bd84169b1bf216384bf52c976aa9a382  output.json.xz\n",
+    "bytes": 104260,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:34 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "104260",
+      "Last-Modified": "Tue, 01 Sep 2026 04:03:21 GMT",
+      "Connection": "close",
+      "ETag": "\"6a964e89-19744\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 30708,
+    "metadata": {
+      "generated": 1788235399,
+      "generatedTime": "2026-09-01T04:03:19Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/01/output.json.xz",
+    "date": "2026-09-01",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:13:38.111286+00:00",
+    "sha256": "57aa443b3b0d03220f533ea612e69e394bb2133c6f9614dce24a59422a203386",
+    "published_checksum": "57aa443b3b0d03220f533ea612e69e394bb2133c6f9614dce24a59422a203386  output.json.xz\n",
+    "bytes": 1057348,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:34 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1057348",
+      "Last-Modified": "Tue, 01 Sep 2026 04:06:20 GMT",
+      "Connection": "close",
+      "ETag": "\"6a964f3c-102244\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 294308,
+    "metadata": {
+      "generated": 1788235571,
+      "generatedTime": "2026-09-01T04:06:11Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/01/output.json.xz",
+    "date": "2026-09-01",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:13:37.194943+00:00",
+    "sha256": "f4497eb705b5bac99fc7c0724964ff895ab60c4345a6a18e0dcbe736295a4f56",
+    "published_checksum": "f4497eb705b5bac99fc7c0724964ff895ab60c4345a6a18e0dcbe736295a4f56  output.json.xz\n",
+    "bytes": 956244,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:34 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "956244",
+      "Last-Modified": "Tue, 01 Sep 2026 04:20:01 GMT",
+      "Connection": "close",
+      "ETag": "\"6a965271-e9754\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267017,
+    "metadata": {
+      "generated": 1788236377,
+      "generatedTime": "2026-09-01T04:19:37Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/01/output.json.xz",
+    "date": "2026-09-01",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:13:38.776101+00:00",
+    "sha256": "7c444c6f7b74a2011f0160296a24424750550da3c4e8724f7a6d79e06302060b",
+    "published_checksum": "7c444c6f7b74a2011f0160296a24424750550da3c4e8724f7a6d79e06302060b  output.json.xz\n",
+    "bytes": 198548,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:36 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "198548",
+      "Last-Modified": "Tue, 01 Sep 2026 04:30:21 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9654dd-30794\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 44653,
+    "metadata": {
+      "generated": 1788237016,
+      "generatedTime": "2026-09-01T04:30:16Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/01/output.json.xz",
+    "date": "2026-09-01",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:13:41.159137+00:00",
+    "sha256": "8c81530628516b50201de52ac16b4e4fb83cf7cbd7f569f2c9316f1a59c17a17",
+    "published_checksum": "8c81530628516b50201de52ac16b4e4fb83cf7cbd7f569f2c9316f1a59c17a17  output.json.xz\n",
+    "bytes": 1645768,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:38 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1645768",
+      "Last-Modified": "Tue, 01 Sep 2026 04:36:54 GMT",
+      "Connection": "close",
+      "ETag": "\"6a965666-191cc8\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 360226,
+    "metadata": {
+      "generated": 1788237399,
+      "generatedTime": "2026-09-01T04:36:39Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/02/output.json.xz",
+    "date": "2026-09-02",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:13:39.759205+00:00",
+    "sha256": "12c3b80c2553fbbd012f3510d3981babf20bd9dcbf3e02b5a233e4ceab251ef5",
+    "published_checksum": "12c3b80c2553fbbd012f3510d3981babf20bd9dcbf3e02b5a233e4ceab251ef5  output.json.xz\n",
+    "bytes": 104596,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:38 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "104596",
+      "Last-Modified": "Wed, 02 Sep 2026 04:03:22 GMT",
+      "Connection": "close",
+      "ETag": "\"6a97a00a-19894\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 30753,
+    "metadata": {
+      "generated": 1788321801,
+      "generatedTime": "2026-09-02T04:03:21Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/02/output.json.xz",
+    "date": "2026-09-02",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:13:42.505664+00:00",
+    "sha256": "2b03f4e2f0ceacbdf23659bc345dd4a8145588806b5e927a40168cc58523625d",
+    "published_checksum": "2b03f4e2f0ceacbdf23659bc345dd4a8145588806b5e927a40168cc58523625d  output.json.xz\n",
+    "bytes": 1057744,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:39 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1057744",
+      "Last-Modified": "Wed, 02 Sep 2026 04:09:57 GMT",
+      "Connection": "close",
+      "ETag": "\"6a97a195-1023d0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 294623,
+    "metadata": {
+      "generated": 1788322189,
+      "generatedTime": "2026-09-02T04:09:49Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/02/output.json.xz",
+    "date": "2026-09-02",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:13:43.963470+00:00",
+    "sha256": "adc721fe84b4a329f067c292489e473af3e0fcdde750355bc0bdda3831865de8",
+    "published_checksum": "adc721fe84b4a329f067c292489e473af3e0fcdde750355bc0bdda3831865de8  output.json.xz\n",
+    "bytes": 958728,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:40 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "958728",
+      "Last-Modified": "Wed, 02 Sep 2026 04:19:36 GMT",
+      "Connection": "close",
+      "ETag": "\"6a97a3d8-ea108\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267665,
+    "metadata": {
+      "generated": 1788322756,
+      "generatedTime": "2026-09-02T04:19:16Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/02/output.json.xz",
+    "date": "2026-09-02",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:13:44.137475+00:00",
+    "sha256": "274c161977905218f1599e40ddf28f7c112b2250477b163d5932d56aa2167fd6",
+    "published_checksum": "274c161977905218f1599e40ddf28f7c112b2250477b163d5932d56aa2167fd6  output.json.xz\n",
+    "bytes": 198880,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:41 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "198880",
+      "Last-Modified": "Wed, 02 Sep 2026 04:26:39 GMT",
+      "Connection": "close",
+      "ETag": "\"6a97a57f-308e0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 44734,
+    "metadata": {
+      "generated": 1788323194,
+      "generatedTime": "2026-09-02T04:26:34Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/02/output.json.xz",
+    "date": "2026-09-02",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:13:46.592586+00:00",
+    "sha256": "5f684cbfe4b4b8901481cf59725ecb291cc2a93b0b4f04aafc2297d9d4921983",
+    "published_checksum": "5f684cbfe4b4b8901481cf59725ecb291cc2a93b0b4f04aafc2297d9d4921983  output.json.xz\n",
+    "bytes": 1646996,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:43 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1646996",
+      "Last-Modified": "Wed, 02 Sep 2026 04:32:59 GMT",
+      "Connection": "close",
+      "ETag": "\"6a97a6fb-192194\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 360506,
+    "metadata": {
+      "generated": 1788323566,
+      "generatedTime": "2026-09-02T04:32:46Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/03/output.json.xz",
+    "date": "2026-09-03",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:13:45.688810+00:00",
+    "sha256": "c1f9cd38dbee2a035a7dc19e561aaa701aedec9aeef66674fa667da947a4c8b0",
+    "published_checksum": "c1f9cd38dbee2a035a7dc19e561aaa701aedec9aeef66674fa667da947a4c8b0  output.json.xz\n",
+    "bytes": 106032,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:44 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "106032",
+      "Last-Modified": "Thu, 03 Sep 2026 04:03:32 GMT",
+      "Connection": "close",
+      "ETag": "\"6a98f194-19e30\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31238,
+    "metadata": {
+      "generated": 1788408210,
+      "generatedTime": "2026-09-03T04:03:30Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/03/output.json.xz",
+    "date": "2026-09-03",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:13:47.701104+00:00",
+    "sha256": "bdb546a69265e0eb2ee76a56f98d50adacc7a733fd98da302e5f11c68cd90554",
+    "published_checksum": "bdb546a69265e0eb2ee76a56f98d50adacc7a733fd98da302e5f11c68cd90554  output.json.xz\n",
+    "bytes": 1057592,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:44 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1057592",
+      "Last-Modified": "Thu, 03 Sep 2026 04:08:19 GMT",
+      "Connection": "close",
+      "ETag": "\"6a98f2b3-102338\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 294854,
+    "metadata": {
+      "generated": 1788408490,
+      "generatedTime": "2026-09-03T04:08:10Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/03/output.json.xz",
+    "date": "2026-09-03",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:13:49.839822+00:00",
+    "sha256": "7a8514f30e22e3f020dfd891a2f68b998956251febab1d0615974567e2b244bb",
+    "published_checksum": "7a8514f30e22e3f020dfd891a2f68b998956251febab1d0615974567e2b244bb  output.json.xz\n",
+    "bytes": 959904,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:46 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "959904",
+      "Last-Modified": "Thu, 03 Sep 2026 04:19:47 GMT",
+      "Connection": "close",
+      "ETag": "\"6a98f563-ea5a0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267923,
+    "metadata": {
+      "generated": 1788409164,
+      "generatedTime": "2026-09-03T04:19:24Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/03/output.json.xz",
+    "date": "2026-09-03",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:13:48.721676+00:00",
+    "sha256": "fd3e86681ab4ebf9411e1544f05a530ad649c0553450753f199096b4380e30e7",
+    "published_checksum": "fd3e86681ab4ebf9411e1544f05a530ad649c0553450753f199096b4380e30e7  output.json.xz\n",
+    "bytes": 200340,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:47 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200340",
+      "Last-Modified": "Thu, 03 Sep 2026 04:31:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6a98f81b-30e94\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45066,
+    "metadata": {
+      "generated": 1788409877,
+      "generatedTime": "2026-09-03T04:31:17Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/03/output.json.xz",
+    "date": "2026-09-03",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:13:51.818169+00:00",
+    "sha256": "697327316e0eb5c4713a3437703e27516cb7fb19e49ce009ca1c7997cc2a6a8f",
+    "published_checksum": "697327316e0eb5c4713a3437703e27516cb7fb19e49ce009ca1c7997cc2a6a8f  output.json.xz\n",
+    "bytes": 1649412,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:48 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1649412",
+      "Last-Modified": "Thu, 03 Sep 2026 04:38:01 GMT",
+      "Connection": "close",
+      "ETag": "\"6a98f9a9-192b04\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361033,
+    "metadata": {
+      "generated": 1788410266,
+      "generatedTime": "2026-09-03T04:37:46Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/04/output.json.xz",
+    "date": "2026-09-04",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:13:50.858368+00:00",
+    "sha256": "b50fb51783ea45caca7cbc90bef449f2e779ac4c41c753596d8eb207a1c96943",
+    "published_checksum": "b50fb51783ea45caca7cbc90bef449f2e779ac4c41c753596d8eb207a1c96943  output.json.xz\n",
+    "bytes": 105852,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:49 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "105852",
+      "Last-Modified": "Fri, 04 Sep 2026 04:03:38 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9a431a-19d7c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31209,
+    "metadata": {
+      "generated": 1788494617,
+      "generatedTime": "2026-09-04T04:03:37Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/04/output.json.xz",
+    "date": "2026-09-04",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:13:53.610267+00:00",
+    "sha256": "cac92eca8e13c5b3ec084825e363e56b3acbcbeb6f781fbd4d4b6e99a66e6bad",
+    "published_checksum": "cac92eca8e13c5b3ec084825e363e56b3acbcbeb6f781fbd4d4b6e99a66e6bad  output.json.xz\n",
+    "bytes": 1061264,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:50 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1061264",
+      "Last-Modified": "Fri, 04 Sep 2026 04:07:34 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9a4406-103190\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295217,
+    "metadata": {
+      "generated": 1788494845,
+      "generatedTime": "2026-09-04T04:07:25Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/04/output.json.xz",
+    "date": "2026-09-04",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:13:55.010748+00:00",
+    "sha256": "637bf5b00be1ba91c2bed2673c5562e79f68d08f8a85317d9d697f76e3e18598",
+    "published_checksum": "637bf5b00be1ba91c2bed2673c5562e79f68d08f8a85317d9d697f76e3e18598  output.json.xz\n",
+    "bytes": 960768,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:51 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "960768",
+      "Last-Modified": "Fri, 04 Sep 2026 04:19:16 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9a46c4-ea900\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267477,
+    "metadata": {
+      "generated": 1788495532,
+      "generatedTime": "2026-09-04T04:18:52Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/04/output.json.xz",
+    "date": "2026-09-04",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:13:54.302492+00:00",
+    "sha256": "8ad1b9bd9ac0c6ca42b74a1b282962222a4e0ed863e63492f36e9daef79b0c73",
+    "published_checksum": "8ad1b9bd9ac0c6ca42b74a1b282962222a4e0ed863e63492f36e9daef79b0c73  output.json.xz\n",
+    "bytes": 200404,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:52 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200404",
+      "Last-Modified": "Fri, 04 Sep 2026 04:30:19 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9a495b-30ed4\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45037,
+    "metadata": {
+      "generated": 1788496213,
+      "generatedTime": "2026-09-04T04:30:13Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/04/output.json.xz",
+    "date": "2026-09-04",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:13:57.629464+00:00",
+    "sha256": "6e79d44bab3d701b5a507e6b371d59099fa296357b16d380c420c94ef014b4c2",
+    "published_checksum": "6e79d44bab3d701b5a507e6b371d59099fa296357b16d380c420c94ef014b4c2  output.json.xz\n",
+    "bytes": 1650432,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:54 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1650432",
+      "Last-Modified": "Fri, 04 Sep 2026 04:37:13 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9a4af9-192f00\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361241,
+    "metadata": {
+      "generated": 1788496618,
+      "generatedTime": "2026-09-04T04:36:58Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/05/output.json.xz",
+    "date": "2026-09-05",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:13:56.819875+00:00",
+    "sha256": "587b0146eb6836c95617c94438762078abe6c2a34191ae1a19b1496311f8a879",
+    "published_checksum": "587b0146eb6836c95617c94438762078abe6c2a34191ae1a19b1496311f8a879  output.json.xz\n",
+    "bytes": 106080,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:55 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "106080",
+      "Last-Modified": "Sat, 05 Sep 2026 04:03:31 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9b9493-19e60\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31249,
+    "metadata": {
+      "generated": 1788581009,
+      "generatedTime": "2026-09-05T04:03:29Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/05/output.json.xz",
+    "date": "2026-09-05",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:13:59.069138+00:00",
+    "sha256": "db7371819dfd715a110922879638e45699f41ba20844259b58efcf42d8174b62",
+    "published_checksum": "db7371819dfd715a110922879638e45699f41ba20844259b58efcf42d8174b62  output.json.xz\n",
+    "bytes": 1061496,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:55 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1061496",
+      "Last-Modified": "Sat, 05 Sep 2026 04:07:21 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9b9579-103278\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295290,
+    "metadata": {
+      "generated": 1788581232,
+      "generatedTime": "2026-09-05T04:07:12Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/05/output.json.xz",
+    "date": "2026-09-05",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:01.053711+00:00",
+    "sha256": "123cdc95d02f354bfd53ceac4f660692d8ea75aecac42614fcec2bc62989cb7a",
+    "published_checksum": "123cdc95d02f354bfd53ceac4f660692d8ea75aecac42614fcec2bc62989cb7a  output.json.xz\n",
+    "bytes": 961932,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:57 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "961932",
+      "Last-Modified": "Sat, 05 Sep 2026 04:18:24 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9b9810-ead8c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267773,
+    "metadata": {
+      "generated": 1788581880,
+      "generatedTime": "2026-09-05T04:18:00Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/05/output.json.xz",
+    "date": "2026-09-05",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:00.090322+00:00",
+    "sha256": "3c201dee34ab59c9ee3c5a4643fbc5ad5892ec794791e517929483db5c88488b",
+    "published_checksum": "3c201dee34ab59c9ee3c5a4643fbc5ad5892ec794791e517929483db5c88488b  output.json.xz\n",
+    "bytes": 200420,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:58 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200420",
+      "Last-Modified": "Sat, 05 Sep 2026 04:28:57 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9b9a89-30ee4\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45064,
+    "metadata": {
+      "generated": 1788582532,
+      "generatedTime": "2026-09-05T04:28:52Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/05/output.json.xz",
+    "date": "2026-09-05",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:03.577586+00:00",
+    "sha256": "a92140ac9980afd8c208fda18734ac7155473e3de02f86acc75175c139b7f81f",
+    "published_checksum": "a92140ac9980afd8c208fda18734ac7155473e3de02f86acc75175c139b7f81f  output.json.xz\n",
+    "bytes": 1651456,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:13:59 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1651456",
+      "Last-Modified": "Sat, 05 Sep 2026 04:35:25 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9b9c0d-193300\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361390,
+    "metadata": {
+      "generated": 1788582912,
+      "generatedTime": "2026-09-05T04:35:12Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/06/output.json.xz",
+    "date": "2026-09-06",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:02.469897+00:00",
+    "sha256": "46092d8c8d37b0b5039c35a12c3b439d93d7ad8f0b6816671454c4bdcf2dc1f1",
+    "published_checksum": "46092d8c8d37b0b5039c35a12c3b439d93d7ad8f0b6816671454c4bdcf2dc1f1  output.json.xz\n",
+    "bytes": 106248,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:01 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "106248",
+      "Last-Modified": "Sun, 06 Sep 2026 04:03:26 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9ce60e-19f08\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31281,
+    "metadata": {
+      "generated": 1788667405,
+      "generatedTime": "2026-09-06T04:03:25Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/06/output.json.xz",
+    "date": "2026-09-06",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:04.644830+00:00",
+    "sha256": "7dca8e2203278bdb3acc5d037f9328529fe40efbf00e3f803bfb4d161be23a78",
+    "published_checksum": "7dca8e2203278bdb3acc5d037f9328529fe40efbf00e3f803bfb4d161be23a78  output.json.xz\n",
+    "bytes": 1060620,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:01 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1060620",
+      "Last-Modified": "Sun, 06 Sep 2026 04:05:31 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9ce68b-102f0c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295287,
+    "metadata": {
+      "generated": 1788667524,
+      "generatedTime": "2026-09-06T04:05:24Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/06/output.json.xz",
+    "date": "2026-09-06",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:06.808586+00:00",
+    "sha256": "1e3dfb6b69c6e6fd328adf32306c4af97f6191544834e6cd0170df0a8a23ae56",
+    "published_checksum": "1e3dfb6b69c6e6fd328adf32306c4af97f6191544834e6cd0170df0a8a23ae56  output.json.xz\n",
+    "bytes": 962240,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:03 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "962240",
+      "Last-Modified": "Sun, 06 Sep 2026 04:15:05 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9ce8c9-eaec0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267805,
+    "metadata": {
+      "generated": 1788668085,
+      "generatedTime": "2026-09-06T04:14:45Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/06/output.json.xz",
+    "date": "2026-09-06",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:05.767852+00:00",
+    "sha256": "5a419b19ff1c1ee2421d84d61b368654ff49d9af8230eef4f86cfc2b01a0407d",
+    "published_checksum": "5a419b19ff1c1ee2421d84d61b368654ff49d9af8230eef4f86cfc2b01a0407d  output.json.xz\n",
+    "bytes": 200432,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:04 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200432",
+      "Last-Modified": "Sun, 06 Sep 2026 04:22:17 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9cea79-30ef0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45052,
+    "metadata": {
+      "generated": 1788668533,
+      "generatedTime": "2026-09-06T04:22:13Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/06/output.json.xz",
+    "date": "2026-09-06",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:08.680812+00:00",
+    "sha256": "d1a128847215ee373c168f0eb0a6cd8927836474e182a9d7ab1c7b98ab10d547",
+    "published_checksum": "d1a128847215ee373c168f0eb0a6cd8927836474e182a9d7ab1c7b98ab10d547  output.json.xz\n",
+    "bytes": 1651480,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:05 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1651480",
+      "Last-Modified": "Sun, 06 Sep 2026 04:27:43 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9cebbf-193318\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361411,
+    "metadata": {
+      "generated": 1788668852,
+      "generatedTime": "2026-09-06T04:27:32Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/07/output.json.xz",
+    "date": "2026-09-07",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:08.809030+00:00",
+    "sha256": "0033b3baa661f39592d9b6b57aeefaf3a02614cd2c29626963d9e154ad22bc74",
+    "published_checksum": "0033b3baa661f39592d9b6b57aeefaf3a02614cd2c29626963d9e154ad22bc74  output.json.xz\n",
+    "bytes": 106368,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:06 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "106368",
+      "Last-Modified": "Mon, 07 Sep 2026 04:03:28 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9e3790-19f80\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31308,
+    "metadata": {
+      "generated": 1788753806,
+      "generatedTime": "2026-09-07T04:03:26Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/07/output.json.xz",
+    "date": "2026-09-07",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:10.539069+00:00",
+    "sha256": "04e699b4c5c2a48f7b2807a576b001d08186401e927c71e27619ee8092a74d38",
+    "published_checksum": "04e699b4c5c2a48f7b2807a576b001d08186401e927c71e27619ee8092a74d38  output.json.xz\n",
+    "bytes": 1060380,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:07 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1060380",
+      "Last-Modified": "Mon, 07 Sep 2026 04:07:45 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9e3891-102e1c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295300,
+    "metadata": {
+      "generated": 1788754055,
+      "generatedTime": "2026-09-07T04:07:35Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/07/output.json.xz",
+    "date": "2026-09-07",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:12.382489+00:00",
+    "sha256": "abb3b5e9e4ac7ecbcf7f450e69ad879a168e86df555cf0b6f3224f489f2d8c4c",
+    "published_checksum": "abb3b5e9e4ac7ecbcf7f450e69ad879a168e86df555cf0b6f3224f489f2d8c4c  output.json.xz\n",
+    "bytes": 962264,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:09 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "962264",
+      "Last-Modified": "Mon, 07 Sep 2026 04:18:50 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9e3b2a-eaed8\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267802,
+    "metadata": {
+      "generated": 1788754707,
+      "generatedTime": "2026-09-07T04:18:27Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/07/output.json.xz",
+    "date": "2026-09-07",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:10.992369+00:00",
+    "sha256": "d90440d6b80c91adf84c31485475e2cce89a4beda333c3288c6835a02edb4835",
+    "published_checksum": "d90440d6b80c91adf84c31485475e2cce89a4beda333c3288c6835a02edb4835  output.json.xz\n",
+    "bytes": 200440,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:09 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200440",
+      "Last-Modified": "Mon, 07 Sep 2026 04:29:47 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9e3dbb-30ef8\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45057,
+    "metadata": {
+      "generated": 1788755381,
+      "generatedTime": "2026-09-07T04:29:41Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/07/output.json.xz",
+    "date": "2026-09-07",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:14.573922+00:00",
+    "sha256": "ea4b4e12aa100d19a788b7785ddd1ea3ace3d6308c0015d759a2afb2d9ea0624",
+    "published_checksum": "ea4b4e12aa100d19a788b7785ddd1ea3ace3d6308c0015d759a2afb2d9ea0624  output.json.xz\n",
+    "bytes": 1651804,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:11 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1651804",
+      "Last-Modified": "Mon, 07 Sep 2026 04:36:17 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9e3f41-19345c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361452,
+    "metadata": {
+      "generated": 1788755763,
+      "generatedTime": "2026-09-07T04:36:03Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/08/output.json.xz",
+    "date": "2026-09-08",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:13.042585+00:00",
+    "sha256": "87cbd42c22f4adcec3d7a6aa372f1be8bdd8c1e9b42ade07e86afc68c14994d5",
+    "published_checksum": "87cbd42c22f4adcec3d7a6aa372f1be8bdd8c1e9b42ade07e86afc68c14994d5  output.json.xz\n",
+    "bytes": 106292,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:11 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "106292",
+      "Last-Modified": "Tue, 08 Sep 2026 04:03:21 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9f8909-19f34\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31310,
+    "metadata": {
+      "generated": 1788840200,
+      "generatedTime": "2026-09-08T04:03:20Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/08/output.json.xz",
+    "date": "2026-09-08",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:16.901140+00:00",
+    "sha256": "f55db72f855a5561d3e5caff2547f63da459d3f0503fd3e0519b30287bce9f32",
+    "published_checksum": "f55db72f855a5561d3e5caff2547f63da459d3f0503fd3e0519b30287bce9f32  output.json.xz\n",
+    "bytes": 1061220,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:12 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1061220",
+      "Last-Modified": "Tue, 08 Sep 2026 04:05:25 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9f8985-103164\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295548,
+    "metadata": {
+      "generated": 1788840318,
+      "generatedTime": "2026-09-08T04:05:18Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/08/output.json.xz",
+    "date": "2026-09-08",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:17.592608+00:00",
+    "sha256": "0c91d939caef8b32524adc64fddb588a0a05ccea7daf47e81d9f9ddf4f4faa28",
+    "published_checksum": "0c91d939caef8b32524adc64fddb588a0a05ccea7daf47e81d9f9ddf4f4faa28  output.json.xz\n",
+    "bytes": 962424,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:13 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "962424",
+      "Last-Modified": "Tue, 08 Sep 2026 04:14:52 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9f8bbc-eaf78\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267826,
+    "metadata": {
+      "generated": 1788840872,
+      "generatedTime": "2026-09-08T04:14:32Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/08/output.json.xz",
+    "date": "2026-09-08",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:18.352886+00:00",
+    "sha256": "84ef54400a2329d9a9f0e08f5d9d55be16234f1673b2ec36dc0259948eddeeac",
+    "published_checksum": "84ef54400a2329d9a9f0e08f5d9d55be16234f1673b2ec36dc0259948eddeeac  output.json.xz\n",
+    "bytes": 200652,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:15 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200652",
+      "Last-Modified": "Tue, 08 Sep 2026 04:21:44 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9f8d58-30fcc\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45109,
+    "metadata": {
+      "generated": 1788841300,
+      "generatedTime": "2026-09-08T04:21:40Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/08/output.json.xz",
+    "date": "2026-09-08",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:21.314772+00:00",
+    "sha256": "7e11cbc6d69d910ed20752ef361acf687ceb5febb8578c1bf6a65595bc068e9b",
+    "published_checksum": "7e11cbc6d69d910ed20752ef361acf687ceb5febb8578c1bf6a65595bc068e9b  output.json.xz\n",
+    "bytes": 1652624,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:17 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1652624",
+      "Last-Modified": "Tue, 08 Sep 2026 04:27:06 GMT",
+      "Connection": "close",
+      "ETag": "\"6a9f8e9a-193790\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361619,
+    "metadata": {
+      "generated": 1788841615,
+      "generatedTime": "2026-09-08T04:26:55Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/09/output.json.xz",
+    "date": "2026-09-09",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:19.719783+00:00",
+    "sha256": "039116ee00fc4533e2e929dcfabf20076b1f2fba2fca33df6abcdfac9e5de37e",
+    "published_checksum": "039116ee00fc4533e2e929dcfabf20076b1f2fba2fca33df6abcdfac9e5de37e  output.json.xz\n",
+    "bytes": 106472,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:18 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "106472",
+      "Last-Modified": "Wed, 09 Sep 2026 04:03:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa0da8b-19fe8\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31370,
+    "metadata": {
+      "generated": 1788926601,
+      "generatedTime": "2026-09-09T04:03:21Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/09/output.json.xz",
+    "date": "2026-09-09",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:22.970350+00:00",
+    "sha256": "7681b38917e4711bfb546754b5eb48ee3fc0dc79122af7cd1bc43244f5e87e5f",
+    "published_checksum": "7681b38917e4711bfb546754b5eb48ee3fc0dc79122af7cd1bc43244f5e87e5f  output.json.xz\n",
+    "bytes": 1063264,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:19 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1063264",
+      "Last-Modified": "Wed, 09 Sep 2026 04:06:35 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa0db4b-103960\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295755,
+    "metadata": {
+      "generated": 1788926785,
+      "generatedTime": "2026-09-09T04:06:25Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/09/output.json.xz",
+    "date": "2026-09-09",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:23.791541+00:00",
+    "sha256": "41c60a1a314e056e8e37b0c38ab5a5a3a6d473e2201383b449c995538098f554",
+    "published_checksum": "41c60a1a314e056e8e37b0c38ab5a5a3a6d473e2201383b449c995538098f554  output.json.xz\n",
+    "bytes": 963160,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:20 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "963160",
+      "Last-Modified": "Wed, 09 Sep 2026 04:17:35 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa0dddf-eb258\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 267954,
+    "metadata": {
+      "generated": 1788927431,
+      "generatedTime": "2026-09-09T04:17:11Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/09/output.json.xz",
+    "date": "2026-09-09",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:24.468811+00:00",
+    "sha256": "0ab1f47ed8765b4c213a23b80304d3b71eda2230d9a0ce88d2b1ca5799e37f85",
+    "published_checksum": "0ab1f47ed8765b4c213a23b80304d3b71eda2230d9a0ce88d2b1ca5799e37f85  output.json.xz\n",
+    "bytes": 200584,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:21 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200584",
+      "Last-Modified": "Wed, 09 Sep 2026 04:27:03 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa0e017-30f88\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45084,
+    "metadata": {
+      "generated": 1788928018,
+      "generatedTime": "2026-09-09T04:26:58Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/09/output.json.xz",
+    "date": "2026-09-09",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:27.683456+00:00",
+    "sha256": "2c2d9de281e98bb14d80842948a5aaaca55e7d5767d11e0f7a6734a43a2e5c4c",
+    "published_checksum": "2c2d9de281e98bb14d80842948a5aaaca55e7d5767d11e0f7a6734a43a2e5c4c  output.json.xz\n",
+    "bytes": 1654020,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:23 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1654020",
+      "Last-Modified": "Wed, 09 Sep 2026 04:33:29 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa0e199-193d04\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 361901,
+    "metadata": {
+      "generated": 1788928395,
+      "generatedTime": "2026-09-09T04:33:15Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/10/output.json.xz",
+    "date": "2026-09-10",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:25.551654+00:00",
+    "sha256": "3a8a73946d2ae4197221cd100cfb49e903cf1199cb752746ad407b997814cff6",
+    "published_checksum": "3a8a73946d2ae4197221cd100cfb49e903cf1199cb752746ad407b997814cff6  output.json.xz\n",
+    "bytes": 107080,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:24 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "107080",
+      "Last-Modified": "Thu, 10 Sep 2026 04:03:39 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa22c1b-1a248\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31486,
+    "metadata": {
+      "generated": 1789013017,
+      "generatedTime": "2026-09-10T04:03:37Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/10/output.json.xz",
+    "date": "2026-09-10",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:34.447736+00:00",
+    "sha256": "9ca84a7e381ce3794f4c94f1e7c1877dc1b326589c15ab0abeaf3f565c5f8955",
+    "published_checksum": "9ca84a7e381ce3794f4c94f1e7c1877dc1b326589c15ab0abeaf3f565c5f8955  output.json.xz\n",
+    "bytes": 1062644,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:24 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1062644",
+      "Last-Modified": "Thu, 10 Sep 2026 04:07:31 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa22d03-1036f4\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 295861,
+    "metadata": {
+      "generated": 1789013241,
+      "generatedTime": "2026-09-10T04:07:21Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/10/output.json.xz",
+    "date": "2026-09-10",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:28.982460+00:00",
+    "sha256": "456513399815b340e69cda0c391174560e8ebd6e2acfbc80599189a2e3259bd8",
+    "published_checksum": "456513399815b340e69cda0c391174560e8ebd6e2acfbc80599189a2e3259bd8  output.json.xz\n",
+    "bytes": 964320,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:25 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "964320",
+      "Last-Modified": "Thu, 10 Sep 2026 04:19:28 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa22fd0-eb6e0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 268367,
+    "metadata": {
+      "generated": 1789013944,
+      "generatedTime": "2026-09-10T04:19:04Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/10/output.json.xz",
+    "date": "2026-09-10",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:29.834051+00:00",
+    "sha256": "8780a9bafd12ad8afaa8f1aa37e6de6c262aad046a5a41117b4dfafd17255ab1",
+    "published_checksum": "8780a9bafd12ad8afaa8f1aa37e6de6c262aad046a5a41117b4dfafd17255ab1  output.json.xz\n",
+    "bytes": 200844,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:28 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200844",
+      "Last-Modified": "Thu, 10 Sep 2026 04:30:41 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa23271-3108c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45128,
+    "metadata": {
+      "generated": 1789014635,
+      "generatedTime": "2026-09-10T04:30:35Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/10/output.json.xz",
+    "date": "2026-09-10",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:32.943541+00:00",
+    "sha256": "92066358e3402b4eb06a897e7098775f44c14016b70a879fb12fc193e4093c8c",
+    "published_checksum": "92066358e3402b4eb06a897e7098775f44c14016b70a879fb12fc193e4093c8c  output.json.xz\n",
+    "bytes": 1655612,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:29 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1655612",
+      "Last-Modified": "Thu, 10 Sep 2026 04:37:00 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa233ec-19433c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 362258,
+    "metadata": {
+      "generated": 1789015007,
+      "generatedTime": "2026-09-10T04:36:47Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/11/output.json.xz",
+    "date": "2026-09-11",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:32.935485+00:00",
+    "sha256": "6909d2cbd6163341a0a8733bf39e1cbedc4f8b4e81eacce8cf796b46129ed684",
+    "published_checksum": "6909d2cbd6163341a0a8733bf39e1cbedc4f8b4e81eacce8cf796b46129ed684  output.json.xz\n",
+    "bytes": 107096,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:30 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "107096",
+      "Last-Modified": "Fri, 11 Sep 2026 04:03:22 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa37d8a-1a258\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31494,
+    "metadata": {
+      "generated": 1789099401,
+      "generatedTime": "2026-09-11T04:03:21Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/11/output.json.xz",
+    "date": "2026-09-11",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:36.929375+00:00",
+    "sha256": "7940a78ea5cba0c74b7dfb45cf18b766889659532df563c4a33b000c679c9f8b",
+    "published_checksum": "7940a78ea5cba0c74b7dfb45cf18b766889659532df563c4a33b000c679c9f8b  output.json.xz\n",
+    "bytes": 1063812,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:33 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1063812",
+      "Last-Modified": "Fri, 11 Sep 2026 04:05:43 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa37e17-103b84\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 296132,
+    "metadata": {
+      "generated": 1789099534,
+      "generatedTime": "2026-09-11T04:05:34Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/11/output.json.xz",
+    "date": "2026-09-11",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:38.442638+00:00",
+    "sha256": "02e757f7711af62d83f7241d76b12e37686406fb805a717edec6b0c4bcff5e96",
+    "published_checksum": "02e757f7711af62d83f7241d76b12e37686406fb805a717edec6b0c4bcff5e96  output.json.xz\n",
+    "bytes": 964924,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:33 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "964924",
+      "Last-Modified": "Fri, 11 Sep 2026 04:16:52 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa380b4-eb93c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 268526,
+    "metadata": {
+      "generated": 1789100189,
+      "generatedTime": "2026-09-11T04:16:29Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/11/output.json.xz",
+    "date": "2026-09-11",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:37.026668+00:00",
+    "sha256": "f9a697626020f1a68114e3b2b9f6f74c791f865c37e2252e935e5632734f345c",
+    "published_checksum": "f9a697626020f1a68114e3b2b9f6f74c791f865c37e2252e935e5632734f345c  output.json.xz\n",
+    "bytes": 200384,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:35 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "200384",
+      "Last-Modified": "Fri, 11 Sep 2026 04:25:59 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa382d7-30ec0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 45027,
+    "metadata": {
+      "generated": 1789100754,
+      "generatedTime": "2026-09-11T04:25:54Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/11/output.json.xz",
+    "date": "2026-09-11",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:48.123997+00:00",
+    "sha256": "3037f746e6490055453dfc599dd46d9c97d724c431120d5d66415d812a666d56",
+    "published_checksum": "3037f746e6490055453dfc599dd46d9c97d724c431120d5d66415d812a666d56  output.json.xz\n",
+    "bytes": 1656576,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:37 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1656576",
+      "Last-Modified": "Fri, 11 Sep 2026 04:32:09 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa38449-194700\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 362361,
+    "metadata": {
+      "generated": 1789101116,
+      "generatedTime": "2026-09-11T04:31:56Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/12/output.json.xz",
+    "date": "2026-09-12",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:39.064504+00:00",
+    "sha256": "e01c4c0d520cfd8b2736dbad5fdf1834c4d2e3095c2b48503498090fa8bf7953",
+    "published_checksum": "e01c4c0d520cfd8b2736dbad5fdf1834c4d2e3095c2b48503498090fa8bf7953  output.json.xz\n",
+    "bytes": 107252,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:37 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "107252",
+      "Last-Modified": "Sat, 12 Sep 2026 04:03:35 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa4cf17-1a2f4\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31528,
+    "metadata": {
+      "generated": 1789185813,
+      "generatedTime": "2026-09-12T04:03:33Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/12/output.json.xz",
+    "date": "2026-09-12",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:41.412136+00:00",
+    "sha256": "52483769fc55556cf0b425e2035a8577a87374d78811fac5a42d1d722d10221d",
+    "published_checksum": "52483769fc55556cf0b425e2035a8577a87374d78811fac5a42d1d722d10221d  output.json.xz\n",
+    "bytes": 1065252,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:38 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1065252",
+      "Last-Modified": "Sat, 12 Sep 2026 04:05:48 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa4cf9c-104124\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 296227,
+    "metadata": {
+      "generated": 1789185940,
+      "generatedTime": "2026-09-12T04:05:40Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/12/output.json.xz",
+    "date": "2026-09-12",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:45.975504+00:00",
+    "sha256": "101d251b12fb6566a74c091d87b06f6fbe259035e0bc1376764e456fee9f0397",
+    "published_checksum": "101d251b12fb6566a74c091d87b06f6fbe259035e0bc1376764e456fee9f0397  output.json.xz\n",
+    "bytes": 965208,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:39 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "965208",
+      "Last-Modified": "Sat, 12 Sep 2026 04:16:45 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa4d22d-eba58\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 268601,
+    "metadata": {
+      "generated": 1789186584,
+      "generatedTime": "2026-09-12T04:16:24Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/12/output.json.xz",
+    "date": "2026-09-12",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:43.275636+00:00",
+    "sha256": "00ad6864b8642227edc87825d13cad3e57da8c0b72c113747198dbff8fdf7c0f",
+    "published_checksum": "00ad6864b8642227edc87825d13cad3e57da8c0b72c113747198dbff8fdf7c0f  output.json.xz\n",
+    "bytes": 199728,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:41 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "199728",
+      "Last-Modified": "Sat, 12 Sep 2026 04:25:57 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa4d455-30c30\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 44851,
+    "metadata": {
+      "generated": 1789187152,
+      "generatedTime": "2026-09-12T04:25:52Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/12/output.json.xz",
+    "date": "2026-09-12",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:49.066172+00:00",
+    "sha256": "43fe452c59a34281fef27883d4c8c8eab2143149e1892dd2cfaf7df1d3f9c0d7",
+    "published_checksum": "43fe452c59a34281fef27883d4c8c8eab2143149e1892dd2cfaf7df1d3f9c0d7  output.json.xz\n",
+    "bytes": 1657100,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:43 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1657100",
+      "Last-Modified": "Sat, 12 Sep 2026 04:31:57 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa4d5bd-19490c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 362524,
+    "metadata": {
+      "generated": 1789187505,
+      "generatedTime": "2026-09-12T04:31:45Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/13/output.json.xz",
+    "date": "2026-09-13",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:49.149306+00:00",
+    "sha256": "3cd1e7bbab02639c2551de3e7f7b24ff060ad185e4407e84e7c2e650aa25ba30",
+    "published_checksum": "3cd1e7bbab02639c2551de3e7f7b24ff060ad185e4407e84e7c2e650aa25ba30  output.json.xz\n",
+    "bytes": 107204,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:46 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "107204",
+      "Last-Modified": "Sun, 13 Sep 2026 04:03:36 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa62098-1a2c4\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31522,
+    "metadata": {
+      "generated": 1789272215,
+      "generatedTime": "2026-09-13T04:03:35Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/13/output.json.xz",
+    "date": "2026-09-13",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:52.318460+00:00",
+    "sha256": "e49e0c1d1308fceac307ae26affdb23091613daacefdbaa91921ec325b5119c7",
+    "published_checksum": "e49e0c1d1308fceac307ae26affdb23091613daacefdbaa91921ec325b5119c7  output.json.xz\n",
+    "bytes": 1064652,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:49 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1064652",
+      "Last-Modified": "Sun, 13 Sep 2026 04:06:12 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa62134-103ecc\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 296252,
+    "metadata": {
+      "generated": 1789272363,
+      "generatedTime": "2026-09-13T04:06:03Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/13/output.json.xz",
+    "date": "2026-09-13",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:54.373024+00:00",
+    "sha256": "015468277624669bfb3a0010e0e3b2b435cb546fa76f66b3458b521930792b08",
+    "published_checksum": "015468277624669bfb3a0010e0e3b2b435cb546fa76f66b3458b521930792b08  output.json.xz\n",
+    "bytes": 965700,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:49 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "965700",
+      "Last-Modified": "Sun, 13 Sep 2026 04:18:08 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa62400-ebc44\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 268637,
+    "metadata": {
+      "generated": 1789273065,
+      "generatedTime": "2026-09-13T04:17:45Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/13/output.json.xz",
+    "date": "2026-09-13",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:14:51.491055+00:00",
+    "sha256": "a1209f7a35cf1d87afd459f198c103d38ebef78ae3feadf7834a21012f4fa6cb",
+    "published_checksum": "a1209f7a35cf1d87afd459f198c103d38ebef78ae3feadf7834a21012f4fa6cb  output.json.xz\n",
+    "bytes": 199444,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:49 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "199444",
+      "Last-Modified": "Sun, 13 Sep 2026 04:28:29 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa6266d-30b14\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 44762,
+    "metadata": {
+      "generated": 1789273703,
+      "generatedTime": "2026-09-13T04:28:23Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/13/output.json.xz",
+    "date": "2026-09-13",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:14:58.484208+00:00",
+    "sha256": "9990ce3a3368b51c2ea03c50df0eb29d0f7347d6f1cd850bb390344ca4d60fab",
+    "published_checksum": "9990ce3a3368b51c2ea03c50df0eb29d0f7347d6f1cd850bb390344ca4d60fab  output.json.xz\n",
+    "bytes": 1657740,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:52 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1657740",
+      "Last-Modified": "Sun, 13 Sep 2026 04:34:51 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa627eb-194b8c\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 362599,
+    "metadata": {
+      "generated": 1789274078,
+      "generatedTime": "2026-09-13T04:34:38Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/afrinic.tal/2026/09/14/output.json.xz",
+    "date": "2026-09-14",
+    "ta": "afrinic",
+    "retrieved_utc": "2026-09-26T14:14:54.753890+00:00",
+    "sha256": "a0953f54ed1fc1dde643a30fbd286f09d6d88b70cf790907403a55540ea882fe",
+    "published_checksum": "a0953f54ed1fc1dde643a30fbd286f09d6d88b70cf790907403a55540ea882fe  output.json.xz\n",
+    "bytes": 107040,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:52 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "107040",
+      "Last-Modified": "Mon, 14 Sep 2026 04:03:41 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa7721d-1a220\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 31507,
+    "metadata": {
+      "generated": 1789358620,
+      "generatedTime": "2026-09-14T04:03:40Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/apnic.tal/2026/09/14/output.json.xz",
+    "date": "2026-09-14",
+    "ta": "apnic",
+    "retrieved_utc": "2026-09-26T14:14:57.569858+00:00",
+    "sha256": "748241de4636fd2787c71610597219f3ad4afe226e72f2deb05e93e38a510bf0",
+    "published_checksum": "748241de4636fd2787c71610597219f3ad4afe226e72f2deb05e93e38a510bf0  output.json.xz\n",
+    "bytes": 1065552,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:54 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1065552",
+      "Last-Modified": "Mon, 14 Sep 2026 04:05:48 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa7729c-104250\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 296248,
+    "metadata": {
+      "generated": 1789358740,
+      "generatedTime": "2026-09-14T04:05:40Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/arin.tal/2026/09/14/output.json.xz",
+    "date": "2026-09-14",
+    "ta": "arin",
+    "retrieved_utc": "2026-09-26T14:14:59.867850+00:00",
+    "sha256": "2a0aa4126b95e3a96353a9f08758a56e496ac334475fbb033d603d8b0054e130",
+    "published_checksum": "2a0aa4126b95e3a96353a9f08758a56e496ac334475fbb033d603d8b0054e130  output.json.xz\n",
+    "bytes": 965700,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:55 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "965700",
+      "Last-Modified": "Mon, 14 Sep 2026 04:15:59 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa774ff-ebc44\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 268683,
+    "metadata": {
+      "generated": 1789359339,
+      "generatedTime": "2026-09-14T04:15:39Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/lacnic.tal/2026/09/14/output.json.xz",
+    "date": "2026-09-14",
+    "ta": "lacnic",
+    "retrieved_utc": "2026-09-26T14:15:00.682981+00:00",
+    "sha256": "8c1de95104ff9f6528e8bf3d7f18fe11fa7e6bd994a21d94ad187e4825a2980b",
+    "published_checksum": "8c1de95104ff9f6528e8bf3d7f18fe11fa7e6bd994a21d94ad187e4825a2980b  output.json.xz\n",
+    "bytes": 198448,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:58 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "198448",
+      "Last-Modified": "Mon, 14 Sep 2026 04:22:55 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa7769f-30730\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 44542,
+    "metadata": {
+      "generated": 1789359771,
+      "generatedTime": "2026-09-14T04:22:51Z"
+    }
+  },
+  {
+    "url": "https://ftp.ripe.net/rpki/ripencc.tal/2026/09/14/output.json.xz",
+    "date": "2026-09-14",
+    "ta": "ripencc",
+    "retrieved_utc": "2026-09-26T14:15:03.071685+00:00",
+    "sha256": "ce632e609b7add00001146eda69794fd2e4904fc52f69e3b3eca7f20ab9ad252",
+    "published_checksum": "ce632e609b7add00001146eda69794fd2e4904fc52f69e3b3eca7f20ab9ad252  output.json.xz\n",
+    "bytes": 1656480,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sat, 26 Sep 2026 14:14:58 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1656480",
+      "Last-Modified": "Mon, 14 Sep 2026 04:28:09 GMT",
+      "Connection": "close",
+      "ETag": "\"6aa777d9-1946a0\"",
+      "Access-Control-Allow-Origin": "*",
+      "Accept-Ranges": "bytes"
+    },
+    "rows": 362402,
+    "metadata": {
+      "generated": 1789360078,
+      "generatedTime": "2026-09-14T04:27:58Z"
+    }
+  }
+]

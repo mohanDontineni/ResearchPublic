@@ -1,0 +1,3452 @@
+[
+  {
+    "prefix": "5.57.33.0/24",
+    "asn": 204104,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "5.83.221.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "5.175.169.0/24",
+    "asn": 219067,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "13.143.247.0/24",
+    "asn": 401152,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "23.26.14.0/23",
+    "asn": 401152,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "31.22.107.0/24",
+    "asn": 9304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "31.59.52.0/24",
+    "asn": 48266,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "31.77.209.0/24",
+    "asn": 202831,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "45.4.226.0/24",
+    "asn": 266060,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.4.227.0/24",
+    "asn": 266060,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.5.80.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.5.80.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.142.154.0/24",
+    "asn": 219181,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "45.161.200.0/22",
+    "asn": 268473,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.161.200.0/23",
+    "asn": 268473,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.161.202.0/23",
+    "asn": 268473,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.161.202.0/24",
+    "asn": 268473,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.161.212.0/24",
+    "asn": 268513,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.161.214.0/23",
+    "asn": 268513,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.161.215.0/24",
+    "asn": 272443,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.165.212.0/24",
+    "asn": 267939,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.165.213.0/24",
+    "asn": 267939,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.165.214.0/24",
+    "asn": 267939,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.165.215.0/24",
+    "asn": 267939,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.166.66.0/24",
+    "asn": 267946,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.166.67.0/24",
+    "asn": 267946,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.168.218.0/24",
+    "asn": 268075,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.168.219.0/24",
+    "asn": 268075,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.169.252.0/24",
+    "asn": 272426,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.189.32.0/24",
+    "asn": 274763,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.189.33.0/24",
+    "asn": 274763,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.189.34.0/24",
+    "asn": 274763,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.189.35.0/24",
+    "asn": 274763,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.192.20.0/24",
+    "asn": 273020,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "45.196.192.0/24",
+    "asn": 141210,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "45.204.160.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.204.224.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.207.64.0/18",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.207.70.0/24",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.227.236.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.227.236.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.227.237.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.227.238.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.227.238.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.227.239.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.230.120.0/22",
+    "asn": 267157,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.230.121.0/24",
+    "asn": 267157,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.230.122.0/24",
+    "asn": 267157,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.230.123.0/24",
+    "asn": 267157,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.200.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.200.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.201.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.202.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.203.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.252.0/22",
+    "asn": 267389,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.252.0/23",
+    "asn": 267389,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.234.254.0/23",
+    "asn": 267389,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.235.109.0/24",
+    "asn": 267416,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.235.110.0/24",
+    "asn": 267416,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.237.56.0/22",
+    "asn": 268300,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.237.57.0/24",
+    "asn": 268300,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "45.237.59.0/24",
+    "asn": 268300,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "46.151.182.0/24",
+    "asn": 36680,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "46.203.39.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "46.236.209.0/24",
+    "asn": 402288,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "51.241.5.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "74.0.27.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "74.0.38.0/24",
+    "asn": 20473,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "77.90.24.0/24",
+    "asn": 49581,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "77.90.48.0/24",
+    "asn": 49581,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "78.105.169.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "79.182.9.0/24",
+    "asn": 16509,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.26.84.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.27.105.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.29.112.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.38.20.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.38.22.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.39.65.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.41.41.0/24",
+    "asn": 61112,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.47.47.0/24",
+    "asn": 48266,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.108.210.0/24",
+    "asn": 16509,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.108.213.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "82.108.215.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "85.133.202.0/24",
+    "asn": 214922,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "85.209.129.0/24",
+    "asn": 218731,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "87.82.232.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "87.84.190.0/24",
+    "asn": 218694,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "87.84.191.0/24",
+    "asn": 218694,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "89.106.71.0/24",
+    "asn": 49581,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "89.207.178.0/24",
+    "asn": 394203,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "91.217.166.0/24",
+    "asn": 199550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "93.95.116.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "95.135.125.0/24",
+    "asn": 58232,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "95.214.183.0/24",
+    "asn": 394203,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "103.24.200.0/22",
+    "asn": 58909,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "103.29.32.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "103.29.33.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "103.120.192.0/22",
+    "asn": 135095,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "107.150.72.0/24",
+    "asn": 219067,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "109.66.68.0/22",
+    "asn": 16509,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "109.66.84.0/22",
+    "asn": 16509,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "128.0.59.0/24",
+    "asn": 214483,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.88.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.88.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.88.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.89.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.90.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.90.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.0.91.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.196.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.196.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.196.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.197.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.198.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.198.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.72.199.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.143.216.0/22",
+    "asn": 399468,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.196.48.0/23",
+    "asn": 265894,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.196.48.0/24",
+    "asn": 265894,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.196.50.0/24",
+    "asn": 265894,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "131.196.51.0/24",
+    "asn": 265894,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "132.177.0.0/16",
+    "asn": 11745,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "132.255.80.0/22",
+    "asn": 264464,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "132.255.80.0/23",
+    "asn": 264464,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "132.255.82.0/23",
+    "asn": 264464,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "140.106.197.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "140.233.181.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "140.235.26.0/24",
+    "asn": 397032,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "141.11.137.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "141.98.139.0/24",
+    "asn": 56381,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "143.137.120.0/22",
+    "asn": 264036,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.137.120.0/23",
+    "asn": 264036,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.137.122.0/23",
+    "asn": 264036,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.202.172.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.202.172.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.202.173.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.202.174.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "143.202.175.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "145.223.6.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "146.12.209.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "146.12.210.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "146.12.213.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "146.12.214.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "147.75.227.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "147.75.228.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "147.75.233.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "147.75.239.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "147.125.240.0/24",
+    "asn": 402288,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "150.241.241.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "151.247.170.0/24",
+    "asn": 197256,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "154.83.224.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "154.86.119.0/24",
+    "asn": 197574,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "154.89.224.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "154.199.32.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "156.249.224.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.249.225.0/24",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "156.253.32.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.253.64.0/18",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.253.68.0/24",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.253.101.0/24",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.253.144.0/20",
+    "asn": 139880,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.254.128.0/18",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.254.128.0/24",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.254.130.0/24",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "156.254.192.0/18",
+    "asn": 142286,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "158.65.0.0/16",
+    "asn": 29917,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "158.136.0.0/16",
+    "asn": 27405,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "158.255.78.0/24",
+    "asn": 49556,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "159.100.200.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "159.100.206.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "160.19.96.0/24",
+    "asn": 328733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "160.21.110.0/24",
+    "asn": 402288,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "161.150.0.0/16",
+    "asn": 10995,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "161.150.0.0/17",
+    "asn": 10995,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "161.150.128.0/17",
+    "asn": 10995,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "162.4.194.0/23",
+    "asn": 197196,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "162.141.187.0/24",
+    "asn": 40676,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "162.141.188.0/24",
+    "asn": 402288,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "162.141.190.0/24",
+    "asn": 40676,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "162.141.191.0/24",
+    "asn": 402288,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "163.52.14.0/23",
+    "asn": 45903,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "164.37.201.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "165.99.218.0/24",
+    "asn": 149287,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "prefix": "167.148.93.0/24",
+    "asn": 40676,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "167.148.95.0/24",
+    "asn": 40676,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "167.179.32.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "167.249.121.0/24",
+    "asn": 265170,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.122.0/24",
+    "asn": 265170,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.123.0/24",
+    "asn": 265170,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.188.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.188.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.188.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.189.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.190.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.190.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "167.249.191.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.100.0/24",
+    "asn": 265307,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.101.0/24",
+    "asn": 265307,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.102.0/24",
+    "asn": 265307,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.103.0/24",
+    "asn": 265307,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.188.0/24",
+    "asn": 265280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.189.0/24",
+    "asn": 265280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.190.0/24",
+    "asn": 265280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.90.191.0/24",
+    "asn": 265280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.194.76.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.194.76.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.194.77.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.194.78.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.194.78.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.194.79.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.196.48.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.196.48.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.196.49.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.196.50.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.196.51.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.205.248.0/24",
+    "asn": 264863,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.205.249.0/24",
+    "asn": 264863,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.205.250.0/24",
+    "asn": 264863,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "168.205.251.0/24",
+    "asn": 264863,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.224.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.224.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.224.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.225.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.226.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.226.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.227.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.84.255.0/24",
+    "asn": 272426,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.201.0.0/16",
+    "asn": 10995,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "170.201.0.0/17",
+    "asn": 10995,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "170.201.128.0/17",
+    "asn": 10995,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "170.246.196.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.246.196.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.246.196.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.246.197.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.246.198.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.246.198.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "170.246.199.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "176.53.37.0/24",
+    "asn": 215567,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "176.101.40.0/21",
+    "asn": 43395,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "177.38.240.0/21",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.240.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.240.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.240.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.241.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.242.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.243.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.244.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.244.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.244.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.245.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.246.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.38.247.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.70.240.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.70.240.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.70.241.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.70.242.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.70.242.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.70.243.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.177.239.0/24",
+    "asn": 402288,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "177.185.112.0/21",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.185.112.0/22",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.185.112.0/23",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.185.114.0/23",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.185.116.0/22",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.185.116.0/23",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.185.118.0/23",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "177.201.208.0/24",
+    "asn": 402170,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "178.83.122.0/24",
+    "asn": 207847,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "178.95.5.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "178.95.178.0/24",
+    "asn": 48266,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "179.42.120.0/22",
+    "asn": 271190,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.42.121.0/24",
+    "asn": 271190,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.42.122.0/23",
+    "asn": 271190,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.168.0/21",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.168.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.168.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.168.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.169.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.170.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.171.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.172.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.172.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.173.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.174.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.174.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.106.175.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.128.0/19",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.128.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.128.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.130.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.132.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.132.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.134.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.136.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.136.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.138.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.140.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.140.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.142.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.144.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.144.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.146.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.148.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.148.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.150.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.152.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.156.0/22",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.108.158.0/23",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "179.191.230.0/23",
+    "asn": 263420,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.189.4.0/22",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.189.4.0/23",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.189.4.0/24",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.189.5.0/24",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.189.6.0/23",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.189.6.0/24",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.189.7.0/24",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "181.224.48.0/24",
+    "asn": 271496,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.224.49.0/24",
+    "asn": 271496,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.224.50.0/23",
+    "asn": 271496,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.224.50.0/24",
+    "asn": 271496,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.224.51.0/24",
+    "asn": 271496,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.233.172.0/23",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.233.172.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.233.173.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.233.174.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "181.233.175.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "185.62.10.0/24",
+    "asn": 150758,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "185.114.79.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "185.242.3.0/24",
+    "asn": 401626,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "186.193.176.0/20",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.176.0/21",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.176.0/22",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.176.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.176.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.177.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.178.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.178.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.179.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.180.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.180.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.181.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.182.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.182.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.183.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.184.0/21",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.184.0/22",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.184.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.184.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.185.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.186.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.186.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.187.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.188.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.188.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.189.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.190.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.190.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.193.191.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.80.0/21",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.80.0/22",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.80.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.81.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.82.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.83.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.84.0/22",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.84.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.85.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.86.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "186.224.87.0/24",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "187.86.24.0/21",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "187.86.24.0/22",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "187.86.28.0/22",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "187.103.202.0/24",
+    "asn": 270524,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "187.103.203.0/24",
+    "asn": 270524,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.30.96.0/24",
+    "asn": 218919,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "189.31.213.0/24",
+    "asn": 154820,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "189.90.32.0/20",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.32.0/21",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.32.0/22",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.32.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.32.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.33.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.34.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.34.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.35.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.36.0/22",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.36.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.36.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.37.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.38.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.38.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.39.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.40.0/21",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.40.0/22",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.40.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.40.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.41.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.42.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.42.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.43.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.44.0/22",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.44.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.44.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.45.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.46.0/23",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.46.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "189.90.47.0/24",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "190.109.96.0/23",
+    "asn": 271222,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "190.109.98.0/24",
+    "asn": 271222,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "190.109.99.0/24",
+    "asn": 271222,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "191.44.78.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "192.26.56.0/24",
+    "asn": 197959,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "192.140.72.0/22",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.140.72.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.140.73.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.140.74.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.140.75.0/24",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.141.238.0/23",
+    "asn": 267483,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.141.238.0/24",
+    "asn": 267483,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.141.239.0/24",
+    "asn": 267483,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "192.158.242.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "192.158.246.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "194.231.143.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "195.170.163.0/24",
+    "asn": 33842,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "198.29.73.0/24",
+    "asn": 197959,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "199.27.230.0/24",
+    "asn": 8075,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "199.59.224.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "199.59.231.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "200.3.114.0/24",
+    "asn": 272426,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "200.53.76.0/24",
+    "asn": 271316,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "200.53.79.0/24",
+    "asn": 271316,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "200.123.232.0/24",
+    "asn": 270288,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "200.123.233.0/24",
+    "asn": 270288,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "200.123.234.0/24",
+    "asn": 270288,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "200.194.180.0/24",
+    "asn": 271643,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "200.194.181.0/24",
+    "asn": 271643,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "201.7.212.0/24",
+    "asn": 61697,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "201.7.213.0/24",
+    "asn": 61697,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "201.7.214.0/24",
+    "asn": 61697,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "201.7.215.0/24",
+    "asn": 61697,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "201.131.64.0/24",
+    "asn": 272426,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "202.5.10.0/23",
+    "asn": 131630,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "203.147.108.0/23",
+    "asn": 24021,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "206.201.197.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "209.131.72.0/21",
+    "asn": 4213,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "209.131.72.0/22",
+    "asn": 4213,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "210.2.4.0/24",
+    "asn": 24406,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "210.83.227.0/24",
+    "asn": 17623,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "212.59.83.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "212.59.84.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "212.59.90.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "212.60.146.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "212.60.147.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "212.100.185.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "216.183.243.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "217.8.201.0/24",
+    "asn": 9304,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:df7:6640::/48",
+    "asn": 45903,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0:880::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0:8c0::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0:8068::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0:8070::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0:c000::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2001:12d0:c080::/48",
+    "asn": 28571,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2401:20::/40",
+    "asn": 4842,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2401:20:1330::/46",
+    "asn": 4842,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2401:20:1331::/48",
+    "asn": 4842,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2401:20:2104::/46",
+    "asn": 4842,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2402:2200:3200::/40",
+    "asn": 24090,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2402:6020:ff00::/47",
+    "asn": 197196,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2402:6020:ff00::/48",
+    "asn": 197196,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2404:8000:101e::/48",
+    "asn": 17451,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2406:b700:13::/48",
+    "asn": 58504,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2406:b700:14::/48",
+    "asn": 58504,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2408:875c::/37",
+    "asn": 140886,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2408:875c:800::/37",
+    "asn": 140886,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2602:f2f2::/40",
+    "asn": 14618,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2602:fed2:7084::/48",
+    "asn": 394203,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2620:39:d000::/48",
+    "asn": 395199,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:9dc::/32",
+    "asn": 262998,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:c2c::/32",
+    "asn": 28191,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:ec4::/32",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:ec4::/33",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:ec4:8000::/33",
+    "asn": 262973,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94::/32",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94::/33",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:200::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:400::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:500::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:600::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:700::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:800::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:900::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:a00::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:b00::/40",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:1b94:8000::/33",
+    "asn": 52974,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:2018::/32",
+    "asn": 264464,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:28b0::/32",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:28b0::/34",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:28b0:4000::/34",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:28b0:8000::/34",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:28b0:c000::/34",
+    "asn": 52932,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:29d0::/32",
+    "asn": 264036,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:29d0::/33",
+    "asn": 264036,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:29d0:8000::/33",
+    "asn": 264036,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:2d68:200::/40",
+    "asn": 265280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:2d68:210::/44",
+    "asn": 265280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:2dd8:ff80::/44",
+    "asn": 265307,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:2ef4:8300::/46",
+    "asn": 264863,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:39f0:f000::/40",
+    "asn": 266060,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:39f0:f100::/40",
+    "asn": 266060,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:39f0:f100::/41",
+    "asn": 266060,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:39f0:f180::/41",
+    "asn": 266060,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:48fc::/32",
+    "asn": 267157,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:48fc::/34",
+    "asn": 267157,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:4cc0::/32",
+    "asn": 267389,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:4f0c::/32",
+    "asn": 268300,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:51bc::/32",
+    "asn": 268473,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:51bc::/33",
+    "asn": 268473,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:51bc:8000::/33",
+    "asn": 268473,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:525c:8000::/36",
+    "asn": 268513,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:525c:9080::/41",
+    "asn": 268513,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:5584::/34",
+    "asn": 267939,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:5584:4000::/34",
+    "asn": 267939,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:57d0:8000::/33",
+    "asn": 268088,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:6d50::/33",
+    "asn": 270524,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:6d50::/34",
+    "asn": 270524,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:6d50:4000::/34",
+    "asn": 270524,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:6d50:c000::/34",
+    "asn": 270524,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:77a4::/32",
+    "asn": 271190,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:799c::/33",
+    "asn": 271316,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:7abc::/32",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:7abc:3000::/40",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:7abc:3100::/40",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:7abc:3500::/40",
+    "asn": 271389,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2804:83c4::/33",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:100::/44",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:600::/44",
+    "asn": 269537,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:800::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:a00::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:1f00::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:8000::/48",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:8008::/48",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:801c::/48",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:a000::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:a200::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:a400::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:a500::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:aa10::/44",
+    "asn": 272218,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:aa30::/44",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:ad00::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:b3b0::/44",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:b3f0::/44",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:b500::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:b700::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:bb00::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:bd00::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:bd00::/41",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:bd80::/41",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:83c4:be00::/40",
+    "asn": 272218,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2804:9970::/32",
+    "asn": 275779,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a06:9801:1570::/44",
+    "asn": 201392,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2a09:11c0:2000::/36",
+    "asn": 56381,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2a09:2500::/48",
+    "asn": 52112,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a0b:33c0:134::/48",
+    "asn": 57395,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2a0d:d940:201c::/48",
+    "asn": 199417,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2a0e:97c0:b50::/48",
+    "asn": 197469,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a0e:97c0:b51::/48",
+    "asn": 197469,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a0e:97c0:b53::/48",
+    "asn": 197469,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a0e:b107:1f0::/48",
+    "asn": 139249,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a0e:b107:27c7::/48",
+    "asn": 8075,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a10:fa81:1d00::/41",
+    "asn": 152320,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2a10:fa81:1d80::/41",
+    "asn": 152320,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "prefix": "2a13:9641::/48",
+    "asn": 52112,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "prefix": "2a14:7583:5a80::/41",
+    "asn": 35661,
+    "before": "Invalid",
+    "after": "Valid"
+  }
+]

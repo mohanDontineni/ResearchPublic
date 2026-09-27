@@ -1,0 +1,46 @@
+{
+  "design": "Fixed 2026-09-14 route pairs evaluated under Sep13 and Sep14 RPKI views; not observed BGP transitions",
+  "families": {
+    "4": {
+      "file": "routeviews-rv2-20260914-2000.pfx2as.gz",
+      "sha256": "d7368deddb750c38419e384fe7371d2497edc00e659ef63a02c13819861ce779",
+      "lines": 1127357,
+      "included_unique_pairs": 1122662,
+      "excluded": {
+        "multi_origin_or_as_set": 4695
+      },
+      "matrix": {
+        "Valid->Valid": 782621,
+        "NotFound->NotFound": 337455,
+        "Invalid->Invalid": 2130,
+        "Invalid->Valid": 74,
+        "Invalid->NotFound": 3,
+        "NotFound->Valid": 55,
+        "Valid->NotFound": 311,
+        "Valid->Invalid": 11,
+        "NotFound->Invalid": 2
+      },
+      "changed": 456
+    },
+    "6": {
+      "file": "routeviews-rv6-20260914-1200.pfx2as.gz",
+      "sha256": "fb15318ef38a34d3fcdf1af1ac908b392dbbdde8a899095a3a0e24d6394f1942",
+      "lines": 262105,
+      "included_unique_pairs": 257234,
+      "excluded": {
+        "multi_origin_or_as_set": 4871
+      },
+      "matrix": {
+        "NotFound->NotFound": 48018,
+        "Valid->Valid": 207828,
+        "Invalid->Invalid": 1269,
+        "NotFound->Valid": 13,
+        "Invalid->Valid": 19,
+        "Valid->NotFound": 78,
+        "Invalid->NotFound": 9
+      },
+      "changed": 119
+    }
+  },
+  "seconds": 93.14968050899915
+}

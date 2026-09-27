@@ -1,0 +1,8610 @@
+[
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "40.223.240.0/20",
+    "asn": 834,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "40.223.240.0/21",
+    "asn": 834,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "40.223.240.0/22",
+    "asn": 834,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.177.236.0/22",
+    "asn": 834,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "40.223.240.0/23",
+    "asn": 834,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "84.75.62.0/23",
+    "asn": 834,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "5.83.221.0/24",
+    "asn": 834,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.152.167.0/24",
+    "asn": 834,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/16",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/17",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/18",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/19",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/20",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/21",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/22",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/23",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/24",
+    "asn": 2914,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/21",
+    "asn": 5650,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/22",
+    "asn": 5650,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/23",
+    "asn": 5650,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/24",
+    "asn": 5650,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "84.75.63.0/24",
+    "asn": 6079,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "66.99.0.0/16",
+    "asn": 6325,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "66.99.0.0/17",
+    "asn": 6325,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "66.99.0.0/18",
+    "asn": 6325,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/21",
+    "asn": 7029,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/22",
+    "asn": 7029,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/23",
+    "asn": 7029,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "98.18.25.0/24",
+    "asn": 7029,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/24",
+    "asn": 7029,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "69.8.134.0/23",
+    "asn": 8796,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "69.8.134.0/24",
+    "asn": 8796,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.195.110.0/24",
+    "asn": 9009,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.126.244.0/24",
+    "asn": 11179,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/21",
+    "asn": 12083,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/22",
+    "asn": 12083,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/23",
+    "asn": 12083,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/24",
+    "asn": 12083,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.171.0/24",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/25",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/26",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/27",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/28",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/29",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/30",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/31",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.175.130.0/32",
+    "asn": 12586,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "104.164.94.0/24",
+    "asn": 12989,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/21",
+    "asn": 13347,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/22",
+    "asn": 13347,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/23",
+    "asn": 13347,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "217.216.184.0/24",
+    "asn": 13347,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "167.104.49.0/24",
+    "asn": 14618,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "94.249.236.0/24",
+    "asn": 14618,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "193.93.52.0/24",
+    "asn": 16276,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "167.104.49.0/24",
+    "asn": 16509,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "94.249.236.0/24",
+    "asn": 16509,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "154.81.157.0/24",
+    "asn": 17497,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.29.65.0/24",
+    "asn": 17561,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "23.88.224.0/19",
+    "asn": 18733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "23.88.224.0/20",
+    "asn": 18733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "23.88.224.0/21",
+    "asn": 18733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "23.88.224.0/22",
+    "asn": 18733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "23.88.224.0/23",
+    "asn": 18733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "23.88.224.0/24",
+    "asn": 18733,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "169.128.224.0/22",
+    "asn": 20200,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "169.128.226.0/23",
+    "asn": 20200,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "169.128.226.0/24",
+    "asn": 20200,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "185.202.0.0/24",
+    "asn": 21105,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "158.94.215.0/24",
+    "asn": 21339,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "156.241.129.0/24",
+    "asn": 21859,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "31.22.107.0/24",
+    "asn": 21859,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "205.144.102.0/24",
+    "asn": 23152,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "203.147.108.0/23",
+    "asn": 24021,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.177.236.0/24",
+    "asn": 25369,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "189.89.0.0/20",
+    "asn": 28182,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "170.231.128.0/22",
+    "asn": 28182,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "170.231.128.0/23",
+    "asn": 28182,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "170.231.128.0/24",
+    "asn": 28182,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.159.148.0/24",
+    "asn": 30042,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "23.163.180.0/24",
+    "asn": 30079,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "198.22.140.0/24",
+    "asn": 31898,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "204.19.134.0/24",
+    "asn": 32613,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "64.89.160.0/23",
+    "asn": 36680,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "64.89.160.0/24",
+    "asn": 36680,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "146.19.233.0/24",
+    "asn": 39238,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "203.26.211.0/24",
+    "asn": 40395,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.177.241.0/24",
+    "asn": 40676,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "31.56.85.0/24",
+    "asn": 42831,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "156.233.71.0/24",
+    "asn": 42926,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "89.221.84.0/23",
+    "asn": 43395,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "89.221.84.0/24",
+    "asn": 43395,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "203.147.108.0/23",
+    "asn": 45163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "82.47.47.0/24",
+    "asn": 48266,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "194.153.158.0/26",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "194.102.131.0/24",
+    "asn": 48669,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "89.106.71.0/24",
+    "asn": 49581,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "109.106.12.0/23",
+    "asn": 51847,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "109.106.12.0/24",
+    "asn": 51847,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.84.56.0/22",
+    "asn": 52709,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.84.56.0/23",
+    "asn": 52709,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.84.56.0/24",
+    "asn": 52709,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "187.33.192.0/20",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "187.33.192.0/21",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "187.33.192.0/22",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "187.33.192.0/23",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "187.33.192.0/24",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "169.128.226.0/24",
+    "asn": 53388,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "93.95.116.0/24",
+    "asn": 54702,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.112.20.0/24",
+    "asn": 55806,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "103.151.4.0/24",
+    "asn": 55933,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "176.108.0.0/22",
+    "asn": 57800,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "176.108.24.0/23",
+    "asn": 57800,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "176.108.0.0/24",
+    "asn": 57800,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "130.78.8.0/24",
+    "asn": 60647,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "128.0.58.0/24",
+    "asn": 61112,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.231.46.0/24",
+    "asn": 62403,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.65.152.0/22",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.65.152.0/23",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.65.152.0/24",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.195.137.0/24",
+    "asn": 63023,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "162.141.130.0/24",
+    "asn": 63150,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "151.123.148.0/22",
+    "asn": 131471,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "151.123.146.0/23",
+    "asn": 131471,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "151.123.146.0/24",
+    "asn": 131471,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "103.54.76.0/24",
+    "asn": 133001,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "175.29.32.0/22",
+    "asn": 133551,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "175.29.32.0/23",
+    "asn": 133551,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "175.29.32.0/24",
+    "asn": 133551,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "68.67.193.0/24",
+    "asn": 135392,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "87.86.95.0/24",
+    "asn": 136050,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "103.182.196.0/23",
+    "asn": 136723,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "103.182.196.0/24",
+    "asn": 136723,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "191.124.176.0/20",
+    "asn": 138644,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "51.241.21.0/24",
+    "asn": 142240,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "109.106.12.0/23",
+    "asn": 147003,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "109.106.12.0/24",
+    "asn": 147003,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "191.44.78.0/24",
+    "asn": 147281,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/16",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/17",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/18",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/19",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/20",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/21",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/22",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/23",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/24",
+    "asn": 148996,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "169.128.227.0/24",
+    "asn": 151349,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/16",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/17",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/18",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/19",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/20",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/21",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/22",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/23",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/24",
+    "asn": 152179,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "103.138.238.0/24",
+    "asn": 152645,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.155.253.0/24",
+    "asn": 152698,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "92.112.44.0/24",
+    "asn": 152868,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "46.236.207.0/24",
+    "asn": 154820,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "94.183.194.0/24",
+    "asn": 197256,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "154.86.119.0/24",
+    "asn": 197574,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "78.105.180.0/24",
+    "asn": 198486,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "31.59.161.0/24",
+    "asn": 198584,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "94.183.192.0/24",
+    "asn": 198584,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "188.220.158.0/24",
+    "asn": 199529,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.159.148.0/24",
+    "asn": 199550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "37.32.117.0/24",
+    "asn": 199633,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "46.37.96.0/24",
+    "asn": 199707,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "141.0.187.0/24",
+    "asn": 202759,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "46.161.192.0/21",
+    "asn": 203862,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "46.161.192.0/24",
+    "asn": 203862,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "158.58.189.0/24",
+    "asn": 204203,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "88.216.183.0/24",
+    "asn": 204770,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "130.12.142.0/24",
+    "asn": 205182,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "109.66.77.0/24",
+    "asn": 205960,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "185.202.0.0/24",
+    "asn": 206061,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "77.67.18.0/24",
+    "asn": 206069,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "145.63.165.0/24",
+    "asn": 206092,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "189.24.74.0/23",
+    "asn": 206300,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "189.24.74.0/24",
+    "asn": 206300,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "87.83.233.0/24",
+    "asn": 206766,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/16",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/17",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/18",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/19",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/20",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/21",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/22",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/23",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "58.66.0.0/24",
+    "asn": 207550,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "178.95.164.0/24",
+    "asn": 210436,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "154.81.6.0/24",
+    "asn": 210507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "199.204.26.0/24",
+    "asn": 210814,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.95.145.0/24",
+    "asn": 210848,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "193.107.14.0/24",
+    "asn": 211372,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "151.244.119.0/24",
+    "asn": 211407,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.194.9.0/24",
+    "asn": 212238,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "89.144.63.0/24",
+    "asn": 213449,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2.27.82.0/24",
+    "asn": 213520,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "31.57.16.0/24",
+    "asn": 213915,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "84.75.141.0/24",
+    "asn": 214483,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "151.240.6.0/24",
+    "asn": 214483,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "5.175.171.0/24",
+    "asn": 214902,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "209.142.103.0/24",
+    "asn": 216013,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "157.173.20.0/24",
+    "asn": 216416,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "89.30.200.0/24",
+    "asn": 218713,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "143.20.50.0/24",
+    "asn": 218717,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "5.83.221.0/24",
+    "asn": 218995,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "141.11.94.0/24",
+    "asn": 219084,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "151.242.9.0/24",
+    "asn": 219105,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "154.81.4.0/24",
+    "asn": 219243,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "89.33.9.0/24",
+    "asn": 219369,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "92.112.108.0/24",
+    "asn": 219427,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "5.175.176.0/24",
+    "asn": 219451,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.47.64.0/20",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.47.64.0/21",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.47.64.0/22",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.47.64.0/23",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.47.64.0/24",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/22",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/23",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/24",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/25",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/26",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/27",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/28",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/29",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/30",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/31",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "177.154.84.0/32",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "191.243.16.0/20",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "179.108.248.0/21",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.178.124.0/22",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.178.124.0/23",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.178.124.0/24",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "143.137.212.0/22",
+    "asn": 264053,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "143.137.212.0/23",
+    "asn": 264053,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "143.137.212.0/24",
+    "asn": 264053,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "131.161.92.0/22",
+    "asn": 264397,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "131.161.92.0/23",
+    "asn": 264397,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "131.161.92.0/24",
+    "asn": 264397,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "138.36.228.0/22",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "138.36.228.0/23",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "138.36.228.0/24",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "170.78.96.0/22",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "170.78.96.0/23",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "170.78.96.0/24",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.225.52.0/22",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.225.52.0/23",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.225.52.0/24",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.227.168.0/23",
+    "asn": 267027,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.227.170.0/24",
+    "asn": 267027,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.229.138.0/23",
+    "asn": 267128,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.229.138.0/24",
+    "asn": 267128,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.71.88.0/22",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.71.88.0/23",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.71.88.0/24",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.174.224.8/29",
+    "asn": 267842,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.163.180.0/24",
+    "asn": 268579,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.182.68.0/22",
+    "asn": 269215,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.182.68.0/23",
+    "asn": 269215,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.182.68.0/24",
+    "asn": 269215,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/22",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/23",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/24",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/25",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/26",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/27",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/28",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/29",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/30",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/31",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "45.182.252.0/32",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.183.192.0/22",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.183.192.0/23",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.183.192.0/24",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "200.13.84.0/24",
+    "asn": 270440,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "179.63.138.0/23",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "179.63.138.0/24",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.194.48.0/22",
+    "asn": 271916,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.194.48.0/23",
+    "asn": 271916,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.194.48.0/24",
+    "asn": 271916,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.192.20.0/24",
+    "asn": 273020,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "186.227.76.0/22",
+    "asn": 273431,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "186.227.76.0/23",
+    "asn": 273431,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "186.227.76.0/24",
+    "asn": 273431,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.84.31.0/24",
+    "asn": 273704,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.165.252.0/22",
+    "asn": 274335,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.165.252.0/23",
+    "asn": 274335,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "45.165.252.0/24",
+    "asn": 274335,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "102.210.172.0/22",
+    "asn": 328652,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "102.210.172.0/23",
+    "asn": 328652,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "102.210.172.0/24",
+    "asn": 328652,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "204.19.134.0/24",
+    "asn": 394582,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "69.8.134.0/23",
+    "asn": 395886,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "69.8.134.0/24",
+    "asn": 395886,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "92.112.65.0/24",
+    "asn": 399359,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "191.124.176.0/21",
+    "asn": 400619,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "191.124.184.0/22",
+    "asn": 400619,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "69.33.209.0/24",
+    "asn": 401009,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2.27.82.0/24",
+    "asn": 401152,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "181.215.62.0/24",
+    "asn": 401293,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "46.236.207.0/24",
+    "asn": 401362,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "66.92.24.0/24",
+    "asn": 401362,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "87.83.0.0/24",
+    "asn": 401936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "191.101.20.0/24",
+    "asn": 402221,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "181.214.212.0/24",
+    "asn": 402257,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "82.29.112.0/24",
+    "asn": 402265,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "92.112.66.0/24",
+    "asn": 402268,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "177.177.227.0/24",
+    "asn": 402288,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "82.25.145.0/24",
+    "asn": 402288,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "151.240.6.0/24",
+    "asn": 402857,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "209.188.111.0/24",
+    "asn": 402918,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "66.99.0.0/16",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "66.99.0.0/17",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "66.99.0.0/18",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "66.99.0.0/19",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/19",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "66.99.0.0/20",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/20",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "46.161.192.0/21",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/21",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "45.65.152.0/22",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/22",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "45.65.152.0/23",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/23",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/24",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/24",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/25",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/25",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/26",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/26",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/27",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/27",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/28",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/28",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/29",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/29",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/30",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/30",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/31",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/31",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "23.163.180.0/32",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "23.88.224.0/32",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a14:c380:37::/48",
+    "asn": 11967,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2602:f96d:103::/48",
+    "asn": 20473,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/29",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/30",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/31",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/32",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/33",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/34",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/35",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/36",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/37",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/38",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/39",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/40",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/41",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/42",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/43",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/44",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/45",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/46",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/47",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:b280::/48",
+    "asn": 23532,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2001:1294::/32",
+    "asn": 28182,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/40",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/41",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/42",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/43",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/44",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/45",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/46",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/47",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/48",
+    "asn": 44324,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2602:f96d:110::/44",
+    "asn": 47272,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a0f:6280:1006::/48",
+    "asn": 47272,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/48",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2a13:9642:100::/48",
+    "asn": 48280,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/49",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/50",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/51",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/52",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/53",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/54",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/55",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/56",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/57",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/58",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/59",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/60",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/61",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/62",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/63",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/64",
+    "asn": 48280,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a09:2500::/48",
+    "asn": 52112,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:c74::/32",
+    "asn": 52709,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:c74::/33",
+    "asn": 52709,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:4fe4::/32",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:4fe4::/33",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:4fe4::/34",
+    "asn": 53086,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:8270::/32",
+    "asn": 61608,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:8270::/33",
+    "asn": 61608,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/32",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/33",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/34",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/35",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/36",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/37",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/38",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/39",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/40",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/41",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/42",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/43",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/44",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/45",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/46",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/47",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:2e5::/48",
+    "asn": 62550,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/29",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/30",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/31",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/32",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/33",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/34",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/35",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/36",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/37",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/38",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/39",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/40",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/41",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/42",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/43",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/44",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/45",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/46",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/47",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:da40::/48",
+    "asn": 139803,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/29",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/30",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/31",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/32",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/33",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/34",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/35",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/36",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/37",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/38",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/39",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/40",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/41",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/42",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/43",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/44",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/45",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/46",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/47",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dec0::/48",
+    "asn": 197537,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/40",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/41",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/42",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/43",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/44",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/45",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/46",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/47",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/48",
+    "asn": 198304,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2a09:3f00:5f00::/44",
+    "asn": 198590,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2a09:3f00:5ffe::/48",
+    "asn": 198590,
+    "before": "Valid",
+    "after": "Invalid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/29",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/30",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/31",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/32",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/33",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/34",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/35",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/36",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/37",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/38",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/39",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/40",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/41",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/42",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/43",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/44",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/45",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/46",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/47",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a12:4d80::/48",
+    "asn": 202736,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/29",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/30",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/31",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/32",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/33",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/34",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/35",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/36",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/37",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/38",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/39",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/40",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/41",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/42",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/43",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/44",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/45",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/46",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/47",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dd40::/48",
+    "asn": 204936,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/29",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/30",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/31",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/32",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/33",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/34",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/35",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/36",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/37",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/38",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/39",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/40",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/41",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/42",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/43",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/44",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/45",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/46",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/47",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:ddc0::/48",
+    "asn": 213507,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a14:c380:a20::/48",
+    "asn": 213905,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/29",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/30",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/31",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/32",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/33",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/34",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/35",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/36",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/37",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/38",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/39",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/40",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/41",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/42",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/43",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/44",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/45",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/46",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/47",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:de40::/48",
+    "asn": 216138,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a06:9801:1514::/48",
+    "asn": 218716,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a09:3f00:100f::/48",
+    "asn": 218938,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2001:67c:b1c::/48",
+    "asn": 219369,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a09:3f00:5f00::/44",
+    "asn": 219451,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a09:3f00:1001::/48",
+    "asn": 219451,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:3d8::/32",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:3d8::/33",
+    "asn": 262402,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/32",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/33",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/34",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/35",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/36",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/37",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/38",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/39",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/40",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/41",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/42",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/43",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/44",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/45",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/46",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/47",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/48",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/49",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/50",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/51",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/52",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/53",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/54",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/55",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/56",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/57",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/58",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/59",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/60",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/61",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/62",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/63",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/64",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/65",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/66",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/67",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/68",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/69",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/70",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/71",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/72",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/73",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/74",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/75",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/76",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/77",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/78",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/79",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/80",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/81",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/82",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/83",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/84",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/85",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/86",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/87",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/88",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/89",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/90",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/91",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/92",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/93",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/94",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/95",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/96",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/97",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/98",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/99",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/100",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/101",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/102",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/103",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/104",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/105",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/106",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/107",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/108",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/109",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/110",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/111",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/112",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/113",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/114",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/115",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/116",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/117",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/118",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/119",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/120",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/121",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/122",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/123",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/124",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/125",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/126",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/127",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:e48::/128",
+    "asn": 262949,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1638::/32",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1638::/33",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1638:a700::/40",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1638:1::/48",
+    "asn": 263276,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:2a0c::/32",
+    "asn": 264053,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:2a0c::/33",
+    "asn": 264053,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:2a0c::/34",
+    "asn": 264053,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1dd4::/32",
+    "asn": 264397,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1dd4::/33",
+    "asn": 264397,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:1dd4::/34",
+    "asn": 264397,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:2238::/32",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:2238::/33",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:2238::/34",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:2238::/35",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:2238:d00::/40",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:2238:e80::/41",
+    "asn": 264598,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/32",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/33",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/34",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/35",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/36",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/37",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/38",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/39",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/40",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/41",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/42",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/43",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/44",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/45",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/46",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/47",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:351c::/48",
+    "asn": 266269,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:45ac::/32",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:45ac::/33",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:45ac::/34",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:45ac::/35",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:45ac::/36",
+    "asn": 266942,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:4708::/33",
+    "asn": 267027,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:4708:8000::/34",
+    "asn": 267027,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:488c::/32",
+    "asn": 267128,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:488c::/33",
+    "asn": 267128,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:440c::/32",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:440c::/33",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:440c::/34",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:440c::/35",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:440c:ff00::/40",
+    "asn": 267618,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:535c::/33",
+    "asn": 268579,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:535c::/34",
+    "asn": 268579,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6124::/32",
+    "asn": 269215,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6124::/33",
+    "asn": 269215,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6124::/34",
+    "asn": 269215,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/32",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/33",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/34",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/35",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/36",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/37",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/38",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/39",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/40",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/41",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/42",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/43",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/44",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/45",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/46",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/47",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/48",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/49",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/50",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/51",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/52",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/53",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/54",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/55",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/56",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/57",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/58",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/59",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/60",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/61",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/62",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/63",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/64",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/65",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/66",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/67",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/68",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/69",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/70",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/71",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/72",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/73",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/74",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/75",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/76",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/77",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/78",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/79",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/80",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/81",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/82",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/83",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/84",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/85",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/86",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/87",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/88",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/89",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/90",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/91",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/92",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/93",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/94",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/95",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/96",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/97",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/98",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/99",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/100",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/101",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/102",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/103",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/104",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/105",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/106",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/107",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/108",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/109",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/110",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/111",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/112",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/113",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/114",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/115",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/116",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/117",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/118",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/119",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/120",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/121",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/122",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/123",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/124",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/125",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/126",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/127",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:61a8::/128",
+    "asn": 269248,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6298::/32",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6298::/33",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6298::/34",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:6298::/35",
+    "asn": 269306,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:6c04::/33",
+    "asn": 270440,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:6c04::/34",
+    "asn": 270440,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:6c04:c000::/37",
+    "asn": 270440,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/32",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/33",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/34",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/35",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/36",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/37",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/38",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/39",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/40",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/41",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/42",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/43",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/44",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/45",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/46",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/47",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:7e44::/48",
+    "asn": 271613,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:844c::/32",
+    "asn": 272252,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:844c::/34",
+    "asn": 272252,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:8e84::/32",
+    "asn": 273431,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:8af8::/32",
+    "asn": 273704,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:8af8:8000::/33",
+    "asn": 273704,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2804:8af8::/34",
+    "asn": 273704,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:9670::/32",
+    "asn": 274335,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:9670::/33",
+    "asn": 274335,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "loss",
+    "prefix": "2804:9670::/34",
+    "asn": 274335,
+    "before": "Valid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2806:473:1000::/36",
+    "asn": 274439,
+    "before": "NotFound",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/29",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/30",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/31",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/32",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/33",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/34",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/35",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/36",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/37",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/38",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/39",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/40",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/41",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/42",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/43",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/44",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/45",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/46",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/47",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dc40::/48",
+    "asn": 400342,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/29",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/30",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/31",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/32",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/33",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/34",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/35",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/36",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/37",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/38",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/39",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/40",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/41",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/42",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/43",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/44",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/45",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/46",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/47",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "A",
+    "direction": "gain",
+    "prefix": "2a10:dbc0::/48",
+    "asn": 401163,
+    "before": "Invalid",
+    "after": "Valid"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/32",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/32",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/33",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/33",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/34",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/34",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/35",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/35",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/36",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/36",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/37",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/37",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/38",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/38",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2804:3d8::/39",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/39",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/40",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/40",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/41",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/41",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/42",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/42",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/43",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/43",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/44",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/44",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/45",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/45",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/46",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/46",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2406:840:cc00::/47",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/47",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/48",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/48",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/49",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/49",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/50",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/50",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/51",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/51",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/52",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/52",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/53",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/53",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/54",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/54",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/55",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/55",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/56",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/56",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/57",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/57",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/58",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/58",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/59",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/59",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/60",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/60",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/61",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/61",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/62",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/62",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/63",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/63",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/64",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/64",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/65",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/65",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/66",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/66",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/67",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/67",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/68",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/68",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/69",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/69",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/70",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/70",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/71",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/71",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/72",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/72",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/73",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/73",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/74",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/74",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/75",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/75",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/76",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/76",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/77",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/77",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/78",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/78",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/79",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/79",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/80",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/80",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/81",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/81",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/82",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/82",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/83",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/83",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/84",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/84",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/85",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/85",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/86",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/86",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/87",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/87",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/88",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/88",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/89",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/89",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/90",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/90",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/91",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/91",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/92",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/92",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/93",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/93",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/94",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/94",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/95",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/95",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/96",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/96",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/97",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/97",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/98",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/98",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/99",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/99",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/100",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/100",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/101",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/101",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/102",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/102",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/103",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/103",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/104",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/104",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/105",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/105",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/106",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/106",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/107",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/107",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/108",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/108",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/109",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/109",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/110",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/110",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/111",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/111",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/112",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/112",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/113",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/113",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/114",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/114",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/115",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/115",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/116",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/116",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/117",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/117",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/118",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/118",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/119",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/119",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/120",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/120",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/121",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/121",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/122",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/122",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/123",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/123",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/124",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/124",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/125",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/125",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/126",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/126",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/127",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/127",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  },
+  {
+    "kind": "C",
+    "direction": "gain",
+    "prefix": "2001:7f8:89::/128",
+    "asn": 4294967295,
+    "before": "NotFound",
+    "after": "Invalid"
+  },
+  {
+    "kind": "C",
+    "direction": "loss",
+    "prefix": "2001:1294::/128",
+    "asn": 4294967295,
+    "before": "Invalid",
+    "after": "NotFound"
+  }
+]
